@@ -2,584 +2,2331 @@
 
 <gpx version="1.1" creator="Alessandro Aimi">
     <wpt lat="38.858971" lon="-77.05323">
+        <name>Eads St &amp; 15th St S</name>
+        <cmt>station_id: 31000</cmt>
+    </wpt>
     <wpt lat="38.85725" lon="-77.05332">
+        <name>18th St &amp; S Eads St</name>
+        <cmt>station_id: 31001</cmt>
+    </wpt>
     <wpt lat="38.856425" lon="-77.049232">
+        <name>Crystal Dr &amp; 20th St S</name>
+        <cmt>station_id: 31002</cmt>
+    </wpt>
     <wpt lat="38.860613" lon="-77.04950500000001">
+        <name>Crystal Dr &amp; 15th St S</name>
+        <cmt>station_id: 31003</cmt>
+    </wpt>
     <wpt lat="38.857866" lon="-77.05949">
+        <name>Aurora Hills Cmty Ctr / 18th St &amp; S Hayes St</name>
+        <cmt>station_id: 31004</cmt>
+    </wpt>
     <wpt lat="38.862303" lon="-77.059936">
+        <name>Pentagon City Metro / 12th St &amp; S Hayes St</name>
+        <cmt>station_id: 31005</cmt>
+    </wpt>
     <wpt lat="38.863507" lon="-77.063358">
+        <name>Army Navy Dr &amp; S Joyce St</name>
+        <cmt>station_id: 31006</cmt>
+    </wpt>
     <wpt lat="38.85759498130752" lon="-77.05141486265563">
+        <name>Crystal City Metro / 18th St &amp; S Bell St</name>
+        <cmt>station_id: 31007</cmt>
+    </wpt>
     <wpt lat="38.848466" lon="-77.051514">
+        <name>Crystal Dr &amp; 27th St S</name>
+        <cmt>station_id: 31009</cmt>
+    </wpt>
     <wpt lat="38.8426" lon="-77.0502">
+        <name>S Glebe Rd &amp; Potomac Ave</name>
+        <cmt>station_id: 31010</cmt>
+    </wpt>
     <wpt lat="38.8531145" lon="-77.0497615">
+        <name>Crystal Dr &amp; 23rd St S</name>
+        <cmt>station_id: 31011</cmt>
+    </wpt>
     <wpt lat="38.850688" lon="-77.05152">
+        <name>Clark St &amp; 26th St S</name>
+        <cmt>station_id: 31012</cmt>
+    </wpt>
     <wpt lat="38.85438075758874" lon="-77.05341180148696">
+        <name>Eads St &amp; 22nd St S</name>
+        <cmt>station_id: 31013</cmt>
+    </wpt>
     <wpt lat="38.897315" lon="-77.070993">
+        <name>Lynn St &amp; 19th St North</name>
+        <cmt>station_id: 31014</cmt>
+    </wpt>
     <wpt lat="38.8946" lon="-77.072305">
+        <name>Rosslyn Metro / Wilson Blvd &amp; Ft Myer Dr</name>
+        <cmt>station_id: 31015</cmt>
+    </wpt>
     <wpt lat="38.893438" lon="-77.076389">
+        <name>Clarendon Blvd &amp; Pierce St</name>
+        <cmt>station_id: 31016</cmt>
+    </wpt>
     <wpt lat="38.891696" lon="-77.0846">
+        <name>Wilson Blvd &amp; N Uhle St</name>
+        <cmt>station_id: 31017</cmt>
+    </wpt>
     <wpt lat="38.892164" lon="-77.079375">
+        <name>Rhodes St &amp; 16th St N</name>
+        <cmt>station_id: 31018</cmt>
+    </wpt>
     <wpt lat="38.889198" lon="-77.09218100000001">
+        <name>Wilson Blvd &amp; N Edgewood St</name>
+        <cmt>station_id: 31019</cmt>
+    </wpt>
     <wpt lat="38.8904" lon="-77.0889">
+        <name>Wilson Blvd &amp; N Franklin Rd</name>
+        <cmt>station_id: 31020</cmt>
+    </wpt>
     <wpt lat="38.8881" lon="-77.09308">
+        <name>Clarendon Blvd &amp; N Fillmore St</name>
+        <cmt>station_id: 31021</cmt>
+    </wpt>
     <wpt lat="38.887435" lon="-77.095066">
+        <name>Clarendon Metro / Wilson Blvd &amp; N Highland St</name>
+        <cmt>station_id: 31022</cmt>
+    </wpt>
     <wpt lat="38.885801" lon="-77.097745">
+        <name>Fairfax Dr &amp; Wilson Blvd</name>
+        <cmt>station_id: 31023</cmt>
+    </wpt>
     <wpt lat="38.882788" lon="-77.103148">
+        <name>Virginia Square Metro / Monroe St &amp; 9th St N</name>
+        <cmt>station_id: 31024</cmt>
+    </wpt>
     <wpt lat="38.88397" lon="-77.10783">
+        <name>Central Library / Quincy St &amp; 10th St N</name>
+        <cmt>station_id: 31025</cmt>
+    </wpt>
     <wpt lat="38.884734" lon="-77.093485">
+        <name>Washington Blvd &amp; 10th St N</name>
+        <cmt>station_id: 31026</cmt>
+    </wpt>
     <wpt lat="38.895174" lon="-77.07848899999999">
+        <name>Wilson Blvd &amp; N Quinn St</name>
+        <cmt>station_id: 31027</cmt>
+    </wpt>
     <wpt lat="38.893237" lon="-77.086063">
+        <name>N Veitch St &amp; Key Blvd</name>
+        <cmt>station_id: 31028</cmt>
+    </wpt>
     <wpt lat="38.896923" lon="-77.086502">
+        <name>N Veitch St &amp; 20th St N</name>
+        <cmt>station_id: 31029</cmt>
+    </wpt>
     <wpt lat="38.89593" lon="-77.089006">
+        <name>Lee Hwy &amp; N Adams St</name>
+        <cmt>station_id: 31030</cmt>
+    </wpt>
     <wpt lat="38.89054" lon="-77.08095">
+        <name>15th St &amp; N Scott St</name>
+        <cmt>station_id: 31031</cmt>
+    </wpt>
     <wpt lat="38.88081" lon="-77.090792">
+        <name>Washington Blvd &amp; 7th St N</name>
+        <cmt>station_id: 31032</cmt>
+    </wpt>
     <wpt lat="38.85033678894223" lon="-77.10098881324005">
+        <name>Barcroft Community Center</name>
+        <cmt>station_id: 31033</cmt>
+    </wpt>
     <wpt lat="38.882629" lon="-77.109366">
+        <name>Fairfax Dr &amp; N Randolph St</name>
+        <cmt>station_id: 31034</cmt>
+    </wpt>
     <wpt lat="38.876393" lon="-77.107735">
+        <name>N Quincy St &amp; Glebe Rd</name>
+        <cmt>station_id: 31035</cmt>
+    </wpt>
     <wpt lat="38.87887" lon="-77.1207">
+        <name>George Mason Dr &amp; Wilson Blvd</name>
+        <cmt>station_id: 31036</cmt>
+    </wpt>
     <wpt lat="38.881044" lon="-77.111768">
+        <name>Ballston Metro / Stuart St &amp; 9th St N</name>
+        <cmt>station_id: 31037</cmt>
+    </wpt>
     <wpt lat="38.883921" lon="-77.116817">
+        <name>Glebe Rd &amp; 11th St N</name>
+        <cmt>station_id: 31038</cmt>
+    </wpt>
     <wpt lat="38.880012" lon="-77.107854">
+        <name>Wilson Blvd &amp; N Quincy St</name>
+        <cmt>station_id: 31039</cmt>
+    </wpt>
     <wpt lat="38.884616" lon="-77.10108">
+        <name>GMU / Fairfax Dr &amp; Kenmore St</name>
+        <cmt>station_id: 31040</cmt>
+    </wpt>
     <wpt lat="38.803124" lon="-77.040363">
+        <name>Prince St &amp; Union St</name>
+        <cmt>station_id: 31041</cmt>
+    </wpt>
     <wpt lat="38.804718" lon="-77.043363">
+        <name>Market Square / King St &amp; Royal St</name>
+        <cmt>station_id: 31042</cmt>
+    </wpt>
     <wpt lat="38.810742000000005" lon="-77.0446485">
+        <name>Saint Asaph St &amp; Pendleton  St</name>
+        <cmt>station_id: 31043</cmt>
+    </wpt>
     <wpt lat="38.805317" lon="-77.049883">
+        <name>King St &amp; Patrick St</name>
+        <cmt>station_id: 31044</cmt>
+    </wpt>
     <wpt lat="38.805648" lon="-77.05293">
+        <name>Commerce St &amp; Fayette St</name>
+        <cmt>station_id: 31045</cmt>
+    </wpt>
     <wpt lat="38.811456" lon="-77.050276">
+        <name>Henry St &amp; Pendleton St</name>
+        <cmt>station_id: 31046</cmt>
+    </wpt>
     <wpt lat="38.814577" lon="-77.052808">
+        <name>Braddock Rd Metro</name>
+        <cmt>station_id: 31047</cmt>
+    </wpt>
     <wpt lat="38.80576292436743" lon="-77.060626872612">
+        <name>King St Metro South</name>
+        <cmt>station_id: 31048</cmt>
+    </wpt>
     <wpt lat="38.883669" lon="-77.113905">
+        <name>Utah St &amp; 11th St N</name>
+        <cmt>station_id: 31049</cmt>
+    </wpt>
     <wpt lat="38.884961" lon="-77.08777">
+        <name>Barton St &amp; 10th St N</name>
+        <cmt>station_id: 31050</cmt>
+    </wpt>
     <wpt lat="38.889365" lon="-77.077294">
+        <name>Arlington Blvd &amp; N Queen St</name>
+        <cmt>station_id: 31051</cmt>
+    </wpt>
     <wpt lat="38.844015" lon="-77.050537">
+        <name>Potomac Ave &amp; 35th St S</name>
+        <cmt>station_id: 31052</cmt>
+    </wpt>
     <wpt lat="38.863833" lon="-77.080319">
+        <name>Columbia Pike &amp; S Courthouse Rd</name>
+        <cmt>station_id: 31053</cmt>
+    </wpt>
     <wpt lat="38.852466" lon="-77.09964149999999">
+        <name>Wakefield High School</name>
+        <cmt>station_id: 31054</cmt>
+    </wpt>
     <wpt lat="38.846222" lon="-77.069275">
+        <name>28th St &amp; S Meade St</name>
+        <cmt>station_id: 31055</cmt>
+    </wpt>
     <wpt lat="38.847977" lon="-77.075104">
+        <name>Troy St &amp; 26th St S</name>
+        <cmt>station_id: 31056</cmt>
+    </wpt>
     <wpt lat="38.8444" lon="-77.085931">
+        <name>Four Mile Run Dr &amp; S Shirlington Rd</name>
+        <cmt>station_id: 31057</cmt>
+    </wpt>
     <wpt lat="38.860789" lon="-77.09586">
+        <name>Columbia Pike &amp; S Oakland St</name>
+        <cmt>station_id: 31058</cmt>
+    </wpt>
     <wpt lat="38.84736" lon="-77.095431">
+        <name>Four Mile Run Dr &amp; S Walter Reed Dr</name>
+        <cmt>station_id: 31059</cmt>
+    </wpt>
     <wpt lat="38.84232" lon="-77.089555">
+        <name>S Arlington Mill Dr &amp; Campbell Ave</name>
+        <cmt>station_id: 31060</cmt>
+    </wpt>
     <wpt lat="38.848454" lon="-77.084918">
+        <name>Kenmore St &amp; 24th St S</name>
+        <cmt>station_id: 31061</cmt>
+    </wpt>
     <wpt lat="38.896553" lon="-77.06714">
+        <name>Roosevelt Island</name>
+        <cmt>station_id: 31062</cmt>
+    </wpt>
     <wpt lat="38.852248" lon="-77.105022">
+        <name>S George Mason &amp; Four Mile Run Dr</name>
+        <cmt>station_id: 31063</cmt>
+    </wpt>
     <wpt lat="38.865029" lon="-77.039511">
+        <name>Gravelly Point</name>
+        <cmt>station_id: 31064</cmt>
+    </wpt>
     <wpt lat="38.880705" lon="-77.08596">
+        <name>Pershing Dr &amp; Wayne St</name>
+        <cmt>station_id: 31065</cmt>
+    </wpt>
     <wpt lat="38.867262" lon="-77.072315">
+        <name>Columbia Pike &amp; S Orme St</name>
+        <cmt>station_id: 31066</cmt>
+    </wpt>
     <wpt lat="38.862478" lon="-77.086599">
+        <name>Columbia Pike &amp; S Walter Reed Dr</name>
+        <cmt>station_id: 31067</cmt>
+    </wpt>
     <wpt lat="38.856319" lon="-77.11153">
+        <name>Arlington Mill Cmty Center / Columbia Pike &amp; S Dinwiddie St</name>
+        <cmt>station_id: 31068</cmt>
+    </wpt>
     <wpt lat="38.871822" lon="-77.107906">
+        <name>Pershing Dr &amp; N George Mason Dr</name>
+        <cmt>station_id: 31069</cmt>
+    </wpt>
     <wpt lat="38.873755" lon="-77.089233">
+        <name>Arlington Blvd &amp; Fillmore St</name>
+        <cmt>station_id: 31070</cmt>
+    </wpt>
     <wpt lat="38.862753" lon="-77.05428">
+        <name>Eads St &amp; 12th St S</name>
+        <cmt>station_id: 31071</cmt>
+    </wpt>
     <wpt lat="38.837756" lon="-77.094149">
+        <name>31st St &amp; S Woodrow St</name>
+        <cmt>station_id: 31072</cmt>
+    </wpt>
     <wpt lat="38.873219" lon="-77.082104">
+        <name>Washington Blvd &amp; Walter Reed Dr </name>
+        <cmt>station_id: 31073</cmt>
+    </wpt>
     <wpt lat="38.869418" lon="-77.095596">
+        <name>TJ Cmty Ctr / 2nd St &amp; S Old Glebe Rd</name>
+        <cmt>station_id: 31074</cmt>
+    </wpt>
     <wpt lat="38.866471" lon="-77.076131">
+        <name>Rolfe St &amp; 9th St S</name>
+        <cmt>station_id: 31075</cmt>
+    </wpt>
     <wpt lat="38.840283" lon="-77.087871">
+        <name>S Randolph St &amp; Campbell Ave</name>
+        <cmt>station_id: 31076</cmt>
+    </wpt>
     <wpt lat="38.88992" lon="-77.071301">
+        <name>Iwo Jima Memorial / Meade &amp; 14th St N</name>
+        <cmt>station_id: 31077</cmt>
+    </wpt>
     <wpt lat="38.869442" lon="-77.104503">
+        <name>Arlington Blvd &amp; S George Mason Dr</name>
+        <cmt>station_id: 31078</cmt>
+    </wpt>
     <wpt lat="38.894941" lon="-77.09169">
+        <name>Lee Hwy &amp; N Cleveland St</name>
+        <cmt>station_id: 31079</cmt>
+    </wpt>
     <wpt lat="38.897612" lon="-77.080851">
+        <name>Lee Hwy &amp; N Scott St</name>
+        <cmt>station_id: 31080</cmt>
+    </wpt>
     <wpt lat="38.804378" lon="-77.060866">
+        <name>Duke St &amp; John Carlyle St</name>
+        <cmt>station_id: 31081</cmt>
+    </wpt>
     <wpt lat="38.801111" lon="-77.068952">
+        <name>Eisenhower Ave &amp; Mill Race Ln</name>
+        <cmt>station_id: 31082</cmt>
+    </wpt>
     <wpt lat="38.82175" lon="-77.047494">
+        <name>Potomac Greens Dr &amp; Slaters Ln</name>
+        <cmt>station_id: 31083</cmt>
+    </wpt>
     <wpt lat="38.802677" lon="-77.063562">
+        <name>Ballenger Ave &amp; Dulaney St</name>
+        <cmt>station_id: 31084</cmt>
+    </wpt>
     <wpt lat="38.820064" lon="-77.057619">
+        <name>Mount Vernon Ave &amp; E Nelson Ave</name>
+        <cmt>station_id: 31085</cmt>
+    </wpt>
     <wpt lat="38.82595" lon="-77.058541">
+        <name>Mount Vernon Ave &amp; E Del Ray Ave</name>
+        <cmt>station_id: 31086</cmt>
+    </wpt>
     <wpt lat="38.820932" lon="-77.053096">
+        <name>Monroe Ave &amp; Leslie Ave</name>
+        <cmt>station_id: 31087</cmt>
+    </wpt>
     <wpt lat="38.833077" lon="-77.059821">
+        <name>Mount Vernon Ave &amp; Kennedy St</name>
+        <cmt>station_id: 31088</cmt>
+    </wpt>
     <wpt lat="38.890612" lon="-77.084801">
+        <name>Court House Metro / 15th St &amp; N Uhle St</name>
+        <cmt>station_id: 31089</cmt>
+    </wpt>
     <wpt lat="38.865553" lon="-77.05003">
+        <name>Long Bridge Park / Long Bridge Dr &amp; 6th St S</name>
+        <cmt>station_id: 31090</cmt>
+    </wpt>
     <wpt lat="38.859254" lon="-77.063275">
+        <name>Joyce St &amp; 16th St S</name>
+        <cmt>station_id: 31091</cmt>
+    </wpt>
     <wpt lat="38.896456" lon="-77.104562">
+        <name>Lee Hwy &amp; N Monroe St</name>
+        <cmt>station_id: 31092</cmt>
+    </wpt>
     <wpt lat="38.898984" lon="-77.078317">
+        <name>21st St &amp; N Pierce St</name>
+        <cmt>station_id: 31093</cmt>
+    </wpt>
     <wpt lat="38.895377" lon="-77.09713">
+        <name>Lee Hwy &amp; N Kirkwood Rd</name>
+        <cmt>station_id: 31094</cmt>
+    </wpt>
     <wpt lat="38.86215012260746" lon="-77.06812091860581">
+        <name>Army Navy Dr &amp; S Nash St</name>
+        <cmt>station_id: 31095</cmt>
+    </wpt>
     <wpt lat="38.86612" lon="-77.08787">
+        <name>Walter Reed Dr &amp; 8th St S</name>
+        <cmt>station_id: 31096</cmt>
+    </wpt>
     <wpt lat="38.812718" lon="-77.044097">
+        <name>Saint Asaph St &amp; Madison St</name>
+        <cmt>station_id: 31097</cmt>
+    </wpt>
     <wpt lat="38.80704" lon="-77.059817">
+        <name>King St Metro North / Cameron St</name>
+        <cmt>station_id: 31098</cmt>
+    </wpt>
     <wpt lat="38.813485" lon="-77.049468">
+        <name>Madison St &amp; N Henry St</name>
+        <cmt>station_id: 31099</cmt>
+    </wpt>
     <wpt lat="38.9003" lon="-77.0429">
+        <name>19th St &amp; Pennsylvania Ave NW</name>
+        <cmt>station_id: 31100</cmt>
+    </wpt>
     <wpt lat="38.917848000000006" lon="-77.032104">
+        <name>14th &amp; V St NW</name>
+        <cmt>station_id: 31101</cmt>
+    </wpt>
     <wpt lat="38.929464" lon="-77.027822">
+        <name>11th &amp; Kenyon St NW</name>
+        <cmt>station_id: 31102</cmt>
+    </wpt>
     <wpt lat="38.926106" lon="-77.0359785">
+        <name>15th &amp; Harvard St NW</name>
+        <cmt>station_id: 31103</cmt>
+    </wpt>
     <wpt lat="38.922925" lon="-77.042581">
+        <name>Adams Mill &amp; Columbia Rd NW</name>
+        <cmt>station_id: 31104</cmt>
+    </wpt>
     <wpt lat="38.9268" lon="-77.0322">
+        <name>14th &amp; Harvard St NW</name>
+        <cmt>station_id: 31105</cmt>
+    </wpt>
     <wpt lat="38.923203" lon="-77.047637">
+        <name>Calvert &amp; Biltmore St NW</name>
+        <cmt>station_id: 31106</cmt>
+    </wpt>
     <wpt lat="38.9319" lon="-77.0388">
+        <name>Lamont &amp; Mt Pleasant NW</name>
+        <cmt>station_id: 31107</cmt>
+    </wpt>
     <wpt lat="38.8766985" lon="-77.017849">
+        <name>4th &amp; M St SW</name>
+        <cmt>station_id: 31108</cmt>
+    </wpt>
     <wpt lat="38.9155" lon="-77.0222">
+        <name>7th &amp; T St NW</name>
+        <cmt>station_id: 31109</cmt>
+    </wpt>
     <wpt lat="38.9154" lon="-77.0446">
+        <name>20th St &amp; Florida Ave NW</name>
+        <cmt>station_id: 31110</cmt>
+    </wpt>
     <wpt lat="38.9172" lon="-77.0259">
+        <name>10th &amp; U St NW</name>
+        <cmt>station_id: 31111</cmt>
+    </wpt>
     <wpt lat="38.927872" lon="-77.043358">
+        <name>Harvard St &amp; Adams Mill Rd NW</name>
+        <cmt>station_id: 31112</cmt>
+    </wpt>
     <wpt lat="38.920669" lon="-77.04368">
+        <name>Columbia Rd &amp; Belmont St NW</name>
+        <cmt>station_id: 31113</cmt>
+    </wpt>
     <wpt lat="38.918809" lon="-77.041571">
+        <name>18th St &amp; Wyoming Ave NW</name>
+        <cmt>station_id: 31114</cmt>
+    </wpt>
     <wpt lat="38.92812105566048" lon="-77.02379482551575">
+        <name>Columbia Rd &amp; Georgia Ave NW</name>
+        <cmt>station_id: 31115</cmt>
+    </wpt>
     <wpt lat="38.917761" lon="-77.04062">
+        <name>California St &amp; Florida Ave NW</name>
+        <cmt>station_id: 31116</cmt>
+    </wpt>
     <wpt lat="38.92333" lon="-77.0352">
+        <name>15th &amp; Euclid St  NW</name>
+        <cmt>station_id: 31117</cmt>
+    </wpt>
     <wpt lat="38.917622" lon="-77.01597">
+        <name>3rd &amp; Elm St NW</name>
+        <cmt>station_id: 31118</cmt>
+    </wpt>
     <wpt lat="38.921074" lon="-77.031887">
+        <name>14th &amp; Belmont St NW</name>
+        <cmt>station_id: 31119</cmt>
+    </wpt>
     <wpt lat="38.920387" lon="-77.025672">
+        <name>10th &amp; Florida Ave NW</name>
+        <cmt>station_id: 31120</cmt>
+    </wpt>
     <wpt lat="38.923583" lon="-77.050046">
+        <name>Calvert St &amp; Woodley Pl NW</name>
+        <cmt>station_id: 31121</cmt>
+    </wpt>
     <wpt lat="38.928893" lon="-77.03625">
+        <name>16th &amp; Irving St NW</name>
+        <cmt>station_id: 31122</cmt>
+    </wpt>
     <wpt lat="38.925284" lon="-77.032375">
+        <name>14th &amp; Girard St NW</name>
+        <cmt>station_id: 31123</cmt>
+    </wpt>
     <wpt lat="38.928552" lon="-77.032224">
+        <name>14th &amp; Irving St NW</name>
+        <cmt>station_id: 31124</cmt>
+    </wpt>
     <wpt lat="38.9190525" lon="-77.0344755">
+        <name>15th &amp; W St NW</name>
+        <cmt>station_id: 31125</cmt>
+    </wpt>
     <wpt lat="38.925636" lon="-77.027112">
+        <name>11th &amp; Girard St NW</name>
+        <cmt>station_id: 31126</cmt>
+    </wpt>
     <wpt lat="38.89892523358421" lon="-77.04885219197973">
+        <name>22nd &amp; H St NW</name>
+        <cmt>station_id: 31127</cmt>
+    </wpt>
     <wpt lat="38.905303" lon="-77.050264">
+        <name>23rd &amp; M St NW</name>
+        <cmt>station_id: 31128</cmt>
+    </wpt>
     <wpt lat="38.896464873743234" lon="-77.03338093302536">
+        <name>15th St &amp; Pennsylvania Ave NW</name>
+        <cmt>station_id: 31129</cmt>
+    </wpt>
     <wpt lat="38.9142041593649" lon="-77.02217479839325">
+        <name>7th &amp; S St NW</name>
+        <cmt>station_id: 31130</cmt>
+    </wpt>
     <wpt lat="38.934405" lon="-77.032687">
+        <name>14th &amp; Otis Pl NW</name>
+        <cmt>station_id: 31131</cmt>
+    </wpt>
     <wpt lat="38.9101" lon="-77.0444">
+        <name>Massachusetts Ave &amp; Dupont Circle NW</name>
+        <cmt>station_id: 31200</cmt>
+    </wpt>
     <wpt lat="38.9098255" lon="-77.0344325">
+        <name>15th &amp; P St NW</name>
+        <cmt>station_id: 31201</cmt>
+    </wpt>
     <wpt lat="38.9086" lon="-77.0323">
+        <name>14th &amp; Rhode Island Ave NW</name>
+        <cmt>station_id: 31203</cmt>
+    </wpt>
     <wpt lat="38.8963" lon="-77.045">
+        <name>20th &amp; E St NW</name>
+        <cmt>station_id: 31204</cmt>
+    </wpt>
     <wpt lat="38.90071081273732" lon="-77.04644879418564">
+        <name>21st &amp; I St NW</name>
+        <cmt>station_id: 31205</cmt>
+    </wpt>
     <wpt lat="38.8952" lon="-77.0436">
+        <name>19th &amp; E Street NW</name>
+        <cmt>station_id: 31206</cmt>
+    </wpt>
     <wpt lat="38.9249" lon="-77.0222">
+        <name>Georgia Ave and Fairmont St NW</name>
+        <cmt>station_id: 31207</cmt>
+    </wpt>
     <wpt lat="38.8763" lon="-77.0037">
+        <name>M St &amp; New Jersey Ave SE</name>
+        <cmt>station_id: 31208</cmt>
+    </wpt>
     <wpt lat="38.8743" lon="-77.0057">
+        <name>1st &amp; N St  SE</name>
+        <cmt>station_id: 31209</cmt>
+    </wpt>
     <wpt lat="38.897293" lon="-77.05557">
+        <name>Kennedy Center</name>
+        <cmt>station_id: 31211</cmt>
+    </wpt>
     <wpt lat="38.9055255" lon="-77.047046">
+        <name>21st &amp; M St NW</name>
+        <cmt>station_id: 31212</cmt>
+    </wpt>
     <wpt lat="38.90276" lon="-77.03863">
+        <name>17th &amp; K St NW</name>
+        <cmt>station_id: 31213</cmt>
+    </wpt>
     <wpt lat="38.9121" lon="-77.0387">
+        <name>17th &amp; Corcoran St NW</name>
+        <cmt>station_id: 31214</cmt>
+    </wpt>
     <wpt lat="38.9022676" lon="-77.0591805">
+        <name>Georgetown Harbor / 30th St NW</name>
+        <cmt>station_id: 31215</cmt>
+    </wpt>
     <wpt lat="38.899632" lon="-77.031686">
+        <name>14th St &amp; New York Ave NW</name>
+        <cmt>station_id: 31216</cmt>
+    </wpt>
     <wpt lat="38.88627697253256" lon="-77.0282418767891">
+        <name>USDA / 12th &amp; C St SW</name>
+        <cmt>station_id: 31217</cmt>
+    </wpt>
     <wpt lat="38.886266" lon="-77.022241">
+        <name>L'Enfant Plaza / 7th &amp; C St SW</name>
+        <cmt>station_id: 31218</cmt>
+    </wpt>
     <wpt lat="38.893028" lon="-77.026013">
+        <name>10th St &amp; Constitution Ave NW</name>
+        <cmt>station_id: 31219</cmt>
+    </wpt>
     <wpt lat="38.894919" lon="-77.046587">
+        <name>US Dept of State / Virginia Ave &amp; 21st St NW</name>
+        <cmt>station_id: 31220</cmt>
+    </wpt>
     <wpt lat="38.905066937276565" lon="-77.04177893123818">
+        <name>18th &amp; M St NW</name>
+        <cmt>station_id: 31221</cmt>
+    </wpt>
     <wpt lat="38.899032172081576" lon="-77.03335402198029">
+        <name>New York Ave &amp; 15th St NW</name>
+        <cmt>station_id: 31222</cmt>
+    </wpt>
     <wpt lat="38.905737" lon="-77.02227">
+        <name>Convention Center / 7th &amp; M St NW</name>
+        <cmt>station_id: 31223</cmt>
+    </wpt>
     <wpt lat="38.90374122545968" lon="-77.04245204846954">
+        <name>18th &amp; L St NW</name>
+        <cmt>station_id: 31224</cmt>
+    </wpt>
     <wpt lat="38.90375" lon="-77.06269">
+        <name>C &amp; O Canal &amp; Wisconsin Ave NW</name>
+        <cmt>station_id: 31225</cmt>
+    </wpt>
     <wpt lat="38.916442" lon="-77.0682">
+        <name>34th St &amp; Wisconsin Ave NW</name>
+        <cmt>station_id: 31226</cmt>
+    </wpt>
     <wpt lat="38.900283" lon="-77.029822">
+        <name>13th St &amp; New York Ave NW</name>
+        <cmt>station_id: 31227</cmt>
+    </wpt>
     <wpt lat="38.8997" lon="-77.023086">
+        <name>8th &amp; H St NW</name>
+        <cmt>station_id: 31228</cmt>
+    </wpt>
     <wpt lat="38.915542" lon="-77.038216">
+        <name>New Hampshire Ave &amp; T St NW</name>
+        <cmt>station_id: 31229</cmt>
+    </wpt>
     <wpt lat="38.898364" lon="-77.027869">
+        <name>Metro Center / 12th &amp; G St NW</name>
+        <cmt>station_id: 31230</cmt>
+    </wpt>
     <wpt lat="38.894514" lon="-77.031617">
+        <name>14th &amp; D St NW / Ronald Reagan Building</name>
+        <cmt>station_id: 31231</cmt>
+    </wpt>
     <wpt lat="38.89728302426927" lon="-77.0221908450203">
+        <name>7th &amp; F St NW / National Portrait Gallery</name>
+        <cmt>station_id: 31232</cmt>
+    </wpt>
     <wpt lat="38.902061" lon="-77.038322">
+        <name>17th &amp; K St NW / Farragut Square</name>
+        <cmt>station_id: 31233</cmt>
+    </wpt>
     <wpt lat="38.908905" lon="-77.04478">
+        <name>20th &amp; O St NW / Dupont South</name>
+        <cmt>station_id: 31234</cmt>
+    </wpt>
     <wpt lat="38.8923" lon="-77.0436">
+        <name>19th St &amp; Constitution Ave NW</name>
+        <cmt>station_id: 31235</cmt>
+    </wpt>
     <wpt lat="38.90774" lon="-77.071652">
+        <name>37th &amp; O St NW / Georgetown University</name>
+        <cmt>station_id: 31236</cmt>
+    </wpt>
     <wpt lat="38.903827" lon="-77.053485">
+        <name>25th St &amp; Pennsylvania Ave NW</name>
+        <cmt>station_id: 31237</cmt>
+    </wpt>
     <wpt lat="38.898409" lon="-77.032278">
+        <name>14th &amp; G St NW</name>
+        <cmt>station_id: 31238</cmt>
+    </wpt>
     <wpt lat="38.90599584999558" lon="-77.03980203721619">
+        <name>Rhode Island &amp; Connecticut Ave NW</name>
+        <cmt>station_id: 31239</cmt>
+    </wpt>
     <wpt lat="38.88412" lon="-77.04657">
+        <name>Ohio Dr &amp; West Basin Dr SW / MLK &amp; FDR Memorials</name>
+        <cmt>station_id: 31240</cmt>
+    </wpt>
     <wpt lat="38.9059" lon="-77.0325">
+        <name>Thomas Circle</name>
+        <cmt>station_id: 31241</cmt>
+    </wpt>
     <wpt lat="38.89968" lon="-77.041539">
+        <name>18th St &amp; Pennsylvania Ave NW</name>
+        <cmt>station_id: 31242</cmt>
+    </wpt>
     <wpt lat="38.88637197027264" lon="-77.01770083607482">
+        <name>4th &amp; C St SW</name>
+        <cmt>station_id: 31243</cmt>
+    </wpt>
     <wpt lat="38.88412" lon="-77.017445">
+        <name>4th &amp; E St SW</name>
+        <cmt>station_id: 31244</cmt>
+    </wpt>
     <wpt lat="38.912719" lon="-77.022155">
+        <name>7th &amp; R St NW / Shaw Library</name>
+        <cmt>station_id: 31245</cmt>
+    </wpt>
     <wpt lat="38.905126" lon="-77.056887">
+        <name>M St &amp; Pennsylvania Ave NW</name>
+        <cmt>station_id: 31246</cmt>
+    </wpt>
     <wpt lat="38.888553" lon="-77.032428">
+        <name>Jefferson Dr &amp; 14th St SW</name>
+        <cmt>station_id: 31247</cmt>
+    </wpt>
     <wpt lat="38.8887705" lon="-77.028637">
+        <name>Smithsonian-National Mall / Jefferson Dr &amp; 12th St SW</name>
+        <cmt>station_id: 31248</cmt>
+    </wpt>
     <wpt lat="38.879819" lon="-77.037413">
+        <name>Jefferson Memorial</name>
+        <cmt>station_id: 31249</cmt>
+    </wpt>
     <wpt lat="38.903584" lon="-77.044789">
+        <name>20th &amp; L St NW</name>
+        <cmt>station_id: 31250</cmt>
+    </wpt>
     <wpt lat="38.903819" lon="-77.0284">
+        <name>12th &amp; L St NW</name>
+        <cmt>station_id: 31251</cmt>
+    </wpt>
     <wpt lat="38.901539" lon="-77.046564">
+        <name>21st St &amp; Pennsylvania Ave NW</name>
+        <cmt>station_id: 31252</cmt>
+    </wpt>
     <wpt lat="38.902204" lon="-77.04337">
+        <name>19th &amp; K St NW</name>
+        <cmt>station_id: 31253</cmt>
+    </wpt>
     <wpt lat="38.902" lon="-77.03353">
+        <name>15th &amp; K St NW</name>
+        <cmt>station_id: 31254</cmt>
+    </wpt>
     <wpt lat="38.9066" lon="-77.05152">
+        <name>24th &amp; N St NW</name>
+        <cmt>station_id: 31255</cmt>
+    </wpt>
     <wpt lat="38.895914" lon="-77.026064">
+        <name>10th &amp; E St NW</name>
+        <cmt>station_id: 31256</cmt>
+    </wpt>
     <wpt lat="38.90088" lon="-77.048911">
+        <name>22nd &amp; I St NW / Foggy Bottom</name>
+        <cmt>station_id: 31257</cmt>
+    </wpt>
     <wpt lat="38.888253" lon="-77.0494315">
+        <name>Lincoln Memorial</name>
+        <cmt>station_id: 31258</cmt>
+    </wpt>
     <wpt lat="38.894722" lon="-77.045128">
+        <name>20th St &amp; Virginia Ave NW</name>
+        <cmt>station_id: 31259</cmt>
+    </wpt>
     <wpt lat="38.896104" lon="-77.049882">
+        <name>23rd &amp; E St NW </name>
+        <cmt>station_id: 31260</cmt>
+    </wpt>
     <wpt lat="38.892459" lon="-77.046567">
+        <name>21st St &amp; Constitution Ave NW</name>
+        <cmt>station_id: 31261</cmt>
+    </wpt>
     <wpt lat="38.897857" lon="-77.026975">
+        <name>11th &amp; F St NW</name>
+        <cmt>station_id: 31262</cmt>
+    </wpt>
     <wpt lat="38.9024" lon="-77.02622">
+        <name>10th &amp; K St NW</name>
+        <cmt>station_id: 31263</cmt>
+    </wpt>
     <wpt lat="38.894573" lon="-77.01994">
+        <name>6th St &amp; Indiana Ave NW</name>
+        <cmt>station_id: 31264</cmt>
+    </wpt>
     <wpt lat="38.90093" lon="-77.018677">
+        <name>5th St &amp; Massachusetts Ave NW</name>
+        <cmt>station_id: 31265</cmt>
+    </wpt>
     <wpt lat="38.905593" lon="-77.027225">
+        <name>11th &amp; M St NW</name>
+        <cmt>station_id: 31266</cmt>
+    </wpt>
     <wpt lat="38.908142" lon="-77.038359">
+        <name>17th St &amp; Massachusetts Ave NW</name>
+        <cmt>station_id: 31267</cmt>
+    </wpt>
     <wpt lat="38.916787" lon="-77.028139">
+        <name>12th &amp; U St NW</name>
+        <cmt>station_id: 31268</cmt>
+    </wpt>
     <wpt lat="38.887378" lon="-77.001955">
+        <name>3rd St &amp; Pennsylvania Ave SE</name>
+        <cmt>station_id: 31269</cmt>
+    </wpt>
     <wpt lat="38.894851" lon="-77.02324">
+        <name>8th &amp; D St NW</name>
+        <cmt>station_id: 31270</cmt>
+    </wpt>
     <wpt lat="38.892275" lon="-77.013917">
+        <name>Constitution Ave &amp; 2nd St NW/DOL</name>
+        <cmt>station_id: 31271</cmt>
+    </wpt>
     <wpt lat="38.886978" lon="-77.013769">
+        <name>Washington &amp; Independence Ave SW/HHS</name>
+        <cmt>station_id: 31272</cmt>
+    </wpt>
     <wpt lat="38.878433" lon="-77.03023">
+        <name>Hains Point/Buckeye &amp; Ohio Dr SW</name>
+        <cmt>station_id: 31273</cmt>
+    </wpt>
     <wpt lat="38.89824314387426" lon="-77.02623523061752">
+        <name>10th &amp; G St NW</name>
+        <cmt>station_id: 31274</cmt>
+    </wpt>
     <wpt lat="38.901755" lon="-77.051084">
+        <name>New Hampshire Ave &amp; 24th St NW</name>
+        <cmt>station_id: 31275</cmt>
+    </wpt>
     <wpt lat="38.9036545" lon="-77.03488200000001">
+        <name>15th &amp; L St NW</name>
+        <cmt>station_id: 31276</cmt>
+    </wpt>
     <wpt lat="38.89829132460588" lon="-77.039732168499">
+        <name>17th &amp; G St NW</name>
+        <cmt>station_id: 31277</cmt>
+    </wpt>
     <wpt lat="38.912648" lon="-77.041834">
+        <name>18th &amp; R St NW</name>
+        <cmt>station_id: 31278</cmt>
+    </wpt>
     <wpt lat="38.898412" lon="-77.043182">
+        <name>19th &amp; G St NW</name>
+        <cmt>station_id: 31279</cmt>
+    </wpt>
     <wpt lat="38.913761" lon="-77.027025">
+        <name>11th &amp; S St NW</name>
+        <cmt>station_id: 31280</cmt>
+    </wpt>
     <wpt lat="38.90864" lon="-77.02277">
+        <name>8th &amp; O St NW</name>
+        <cmt>station_id: 31281</cmt>
+    </wpt>
     <wpt lat="38.912652" lon="-77.036278">
+        <name>16th &amp; R St NW</name>
+        <cmt>station_id: 31282</cmt>
+    </wpt>
     <wpt lat="38.903658" lon="-77.031737">
+        <name>14th &amp; L St NW</name>
+        <cmt>station_id: 31283</cmt>
+    </wpt>
     <wpt lat="38.893511" lon="-77.041544">
+        <name>18th &amp; C St NW</name>
+        <cmt>station_id: 31284</cmt>
+    </wpt>
     <wpt lat="38.909394" lon="-77.048728">
+        <name>22nd &amp; P ST NW</name>
+        <cmt>station_id: 31285</cmt>
+    </wpt>
     <wpt lat="38.90843" lon="-77.02714">
+        <name>11th &amp; O St NW</name>
+        <cmt>station_id: 31286</cmt>
+    </wpt>
     <wpt lat="38.88432286207331" lon="-77.02601007783889">
+        <name>10th St &amp; L'Enfant Plaza SW</name>
+        <cmt>station_id: 31287</cmt>
+    </wpt>
     <wpt lat="38.8904945" lon="-77.01724999999999">
+        <name>4th St &amp; Madison Dr NW</name>
+        <cmt>station_id: 31288</cmt>
+    </wpt>
     <wpt lat="38.8905415" lon="-77.04938100000001">
+        <name>Henry Bacon Dr &amp; Lincoln Memorial Circle NW</name>
+        <cmt>station_id: 31289</cmt>
+    </wpt>
     <wpt lat="38.888097" lon="-77.038325">
+        <name>17th St &amp; Independence Ave SW</name>
+        <cmt>station_id: 31290</cmt>
+    </wpt>
     <wpt lat="38.90113622586853" lon="-77.03445103372383">
+        <name>Vermont Ave &amp; I St NW</name>
+        <cmt>station_id: 31291</cmt>
+    </wpt>
     <wpt lat="38.892441" lon="-77.048947">
+        <name>22nd St &amp; Constitution Ave NW</name>
+        <cmt>station_id: 31292</cmt>
+    </wpt>
     <wpt lat="38.90282" lon="-77.060608">
+        <name>31st &amp; Water St NW</name>
+        <cmt>station_id: 31293</cmt>
+    </wpt>
     <wpt lat="38.88345" lon="-77.021741">
+        <name>7th &amp; E St SW</name>
+        <cmt>station_id: 31294</cmt>
+    </wpt>
     <wpt lat="38.905368" lon="-77.065149">
+        <name>Potomac &amp; M St NW</name>
+        <cmt>station_id: 31295</cmt>
+    </wpt>
     <wpt lat="38.924088" lon="-77.040787">
+        <name>Columbia &amp; Ontario Rd NW</name>
+        <cmt>station_id: 31296</cmt>
+    </wpt>
     <wpt lat="38.8995" lon="-77.054155">
+        <name>Virginia Ave &amp; 25th St NW</name>
+        <cmt>station_id: 31297</cmt>
+    </wpt>
     <wpt lat="38.905424" lon="-77.034674">
+        <name>15th &amp; M St NW</name>
+        <cmt>station_id: 31298</cmt>
+    </wpt>
     <wpt lat="38.912644" lon="-77.04564">
+        <name>Connecticut Ave &amp; R St NW</name>
+        <cmt>station_id: 31299</cmt>
+    </wpt>
     <wpt lat="38.944551" lon="-77.063896">
+        <name>Van Ness Metro / UDC</name>
+        <cmt>station_id: 31300</cmt>
+    </wpt>
     <wpt lat="38.938736" lon="-77.087171">
+        <name>Ward Circle / American University</name>
+        <cmt>station_id: 31301</cmt>
+    </wpt>
     <wpt lat="38.934881" lon="-77.072755">
+        <name>Wisconsin Ave &amp; Newark St NW</name>
+        <cmt>station_id: 31302</cmt>
+    </wpt>
     <wpt lat="38.947607" lon="-77.079382">
+        <name>Tenleytown / Wisconsin Ave &amp; Albemarle St NW</name>
+        <cmt>station_id: 31303</cmt>
+    </wpt>
     <wpt lat="38.922581" lon="-77.070334">
+        <name>36th &amp; Calvert St NW / Glover Park</name>
+        <cmt>station_id: 31304</cmt>
+    </wpt>
     <wpt lat="38.934267" lon="-77.057979">
+        <name>Connecticut Ave &amp; Newark St NW / Cleveland Park</name>
+        <cmt>station_id: 31305</cmt>
+    </wpt>
     <wpt lat="38.922649" lon="-77.077271">
+        <name>39th &amp; Calvert St NW / Stoddert</name>
+        <cmt>station_id: 31306</cmt>
+    </wpt>
     <wpt lat="38.930282" lon="-77.055599">
+        <name>3000 Connecticut Ave NW / National Zoo</name>
+        <cmt>station_id: 31307</cmt>
+    </wpt>
     <wpt lat="38.943837" lon="-77.077078">
+        <name>39th &amp; Veazey St NW</name>
+        <cmt>station_id: 31308</cmt>
+    </wpt>
     <wpt lat="38.954812" lon="-77.082426">
+        <name>Fessenden St &amp; Wisconsin Ave NW</name>
+        <cmt>station_id: 31309</cmt>
+    </wpt>
     <wpt lat="38.955016" lon="-77.069956">
+        <name>Connecticut &amp; Nebraska Ave NW</name>
+        <cmt>station_id: 31310</cmt>
+    </wpt>
     <wpt lat="38.90849" lon="-77.063586">
+        <name>Wisconsin Ave &amp; O St NW</name>
+        <cmt>station_id: 31312</cmt>
+    </wpt>
     <wpt lat="38.94113907826504" lon="-77.0619771187315">
+        <name>Connecticut Ave &amp; Tilden St NW</name>
+        <cmt>station_id: 31313</cmt>
+    </wpt>
     <wpt lat="38.90369734502524" lon="-77.06759871903344">
+        <name>34th &amp; Water St NW</name>
+        <cmt>station_id: 31314</cmt>
+    </wpt>
     <wpt lat="38.96454375462294" lon="-77.07513490689277">
+        <name>Connecticut Ave &amp; McKinley St NW</name>
+        <cmt>station_id: 31315</cmt>
+    </wpt>
     <wpt lat="38.946182" lon="-77.08059">
+        <name>Yuma St &amp; Tenley Circle NW</name>
+        <cmt>station_id: 31316</cmt>
+    </wpt>
     <wpt lat="38.958267" lon="-77.084636">
+        <name>Wisconsin Ave &amp; Ingomar St NW</name>
+        <cmt>station_id: 31317</cmt>
+    </wpt>
     <wpt lat="38.947156" lon="-77.065115">
+        <name>Connecticut Ave &amp; Yuma St NW</name>
+        <cmt>station_id: 31318</cmt>
+    </wpt>
     <wpt lat="38.949813" lon="-77.080217">
+        <name>Wisconsin Ave &amp; Brandywine St NW</name>
+        <cmt>station_id: 31319</cmt>
+    </wpt>
     <wpt lat="38.936298" lon="-77.087128">
+        <name>American University East Campus</name>
+        <cmt>station_id: 31320</cmt>
+    </wpt>
     <wpt lat="38.892244" lon="-77.033234">
+        <name>15th St &amp; Constitution Ave NW</name>
+        <cmt>station_id: 31321</cmt>
+    </wpt>
     <wpt lat="38.91717" lon="-77.096036">
+        <name>48th Pl &amp; MacArthur Blvd NW</name>
+        <cmt>station_id: 31322</cmt>
+    </wpt>
     <wpt lat="38.923389" lon="-77.051833">
+        <name>Woodley Park Metro / Calvert St &amp; Connecticut Ave NW</name>
+        <cmt>station_id: 31323</cmt>
+    </wpt>
     <wpt lat="38.911268" lon="-77.041829">
+        <name>18th &amp; New Hampshire Ave NW</name>
+        <cmt>station_id: 31324</cmt>
+    </wpt>
     <wpt lat="38.91261379734596" lon="-77.07432282038243">
+        <name>Reservoir Rd &amp; 38th St NW</name>
+        <cmt>station_id: 31325</cmt>
+    </wpt>
     <wpt lat="38.909700931022336" lon="-77.08564619545746">
+        <name>Hardy Rec Center</name>
+        <cmt>station_id: 31326</cmt>
+    </wpt>
     <wpt lat="38.9366839672943" lon="-77.02418094456482">
+        <name>Georgia &amp; New Hampshire Ave NW</name>
+        <cmt>station_id: 31400</cmt>
+    </wpt>
     <wpt lat="38.9375" lon="-77.0328">
+        <name>14th St &amp; Spring Rd NW</name>
+        <cmt>station_id: 31401</cmt>
+    </wpt>
     <wpt lat="38.947774" lon="-77.032818">
+        <name>14th St Heights / 14th &amp; Crittenden St NW</name>
+        <cmt>station_id: 31402</cmt>
+    </wpt>
     <wpt lat="38.95655577386098" lon="-77.0198141264267">
+        <name>5th &amp; Kennedy St NW</name>
+        <cmt>station_id: 31403</cmt>
+    </wpt>
     <wpt lat="38.9418" lon="-77.0251">
+        <name>9th &amp; Upshur St NW</name>
+        <cmt>station_id: 31404</cmt>
+    </wpt>
     <wpt lat="38.949662" lon="-77.027333">
+        <name>Georgia Ave &amp; Emerson St NW</name>
+        <cmt>station_id: 31405</cmt>
+    </wpt>
     <wpt lat="38.94247517780143" lon="-77.03267806364441">
+        <name>14th &amp; Upshur St NW</name>
+        <cmt>station_id: 31406</cmt>
+    </wpt>
     <wpt lat="38.956432" lon="-77.032947">
+        <name>14th St &amp; Colorado Ave NW</name>
+        <cmt>station_id: 31407</cmt>
+    </wpt>
     <wpt lat="38.975219" lon="-77.016855">
+        <name>Takoma Metro</name>
+        <cmt>station_id: 31408</cmt>
+    </wpt>
     <wpt lat="38.961339" lon="-77.027855">
+        <name>Georgia &amp; Missouri Ave NW</name>
+        <cmt>station_id: 31411</cmt>
+    </wpt>
     <wpt lat="38.957463" lon="-77.002239">
+        <name>3rd St &amp; Riggs Rd NE</name>
+        <cmt>station_id: 31412</cmt>
+    </wpt>
     <wpt lat="38.968834" lon="-77.016258">
+        <name>3rd &amp; Underwood St NW</name>
+        <cmt>station_id: 31413</cmt>
+    </wpt>
     <wpt lat="38.967505" lon="-77.027976">
+        <name>Georgia Ave &amp; Piney Branch Rd NW</name>
+        <cmt>station_id: 31414</cmt>
+    </wpt>
     <wpt lat="38.95674" lon="-77.02791">
+        <name>Georgia Ave &amp; Kennedy St NW</name>
+        <cmt>station_id: 31415</cmt>
+    </wpt>
     <wpt lat="38.969489" lon="-77.033509">
+        <name>14th &amp; Luzon St NW</name>
+        <cmt>station_id: 31416</cmt>
+    </wpt>
     <wpt lat="38.9480095" lon="-77.02150850000001">
+        <name>Kansas Ave &amp; Sherman Cr NW</name>
+        <cmt>station_id: 31417</cmt>
+    </wpt>
     <wpt lat="38.951596" lon="-77.012808">
+        <name>New Hampshire &amp; Gallatin St NW</name>
+        <cmt>station_id: 31418</cmt>
+    </wpt>
     <wpt lat="38.932128" lon="-77.0235">
+        <name>Georgia Ave &amp; Morton St NW</name>
+        <cmt>station_id: 31419</cmt>
+    </wpt>
     <wpt lat="38.942146" lon="-77.038684">
+        <name>17th &amp; Upshur St NW</name>
+        <cmt>station_id: 31420</cmt>
+    </wpt>
     <wpt lat="38.94202487163652" lon="-77.01822101034927">
+        <name>Grant Circle</name>
+        <cmt>station_id: 31421</cmt>
+    </wpt>
     <wpt lat="38.919077" lon="-77.000648">
+        <name>4th &amp; W St NE</name>
+        <cmt>station_id: 31500</cmt>
+    </wpt>
     <wpt lat="38.933668" lon="-76.991016">
+        <name>12th &amp; Newton St NE</name>
+        <cmt>station_id: 31501</cmt>
+    </wpt>
     <wpt lat="38.9346" lon="-76.9955">
+        <name>John McCormack Dr &amp; Michigan Ave NE</name>
+        <cmt>station_id: 31502</cmt>
+    </wpt>
     <wpt lat="38.9126" lon="-77.0135">
+        <name>Florida Ave &amp; R St NW</name>
+        <cmt>station_id: 31503</cmt>
+    </wpt>
     <wpt lat="38.932514" lon="-76.992889">
+        <name>10th &amp; Monroe St NE</name>
+        <cmt>station_id: 31504</cmt>
+    </wpt>
     <wpt lat="38.910972" lon="-77.00495">
+        <name>Eckington Pl &amp; Q St NE</name>
+        <cmt>station_id: 31505</cmt>
+    </wpt>
     <wpt lat="38.915417" lon="-77.012289">
+        <name>1st &amp; Rhode Island Ave NW</name>
+        <cmt>station_id: 31506</cmt>
+    </wpt>
     <wpt lat="38.928743" lon="-77.012457">
+        <name>1st &amp; Washington Hospital Center NW</name>
+        <cmt>station_id: 31507</cmt>
+    </wpt>
     <wpt lat="38.90509" lon="-76.9941">
+        <name>Gallaudet / 8th St &amp; Florida Ave NE</name>
+        <cmt>station_id: 31508</cmt>
+    </wpt>
     <wpt lat="38.912659" lon="-77.017669">
+        <name>New Jersey Ave &amp; R St NW</name>
+        <cmt>station_id: 31509</cmt>
+    </wpt>
     <wpt lat="38.927095" lon="-76.978924">
+        <name>18th St &amp; Rhode Island Ave NE</name>
+        <cmt>station_id: 31510</cmt>
+    </wpt>
     <wpt lat="38.928644" lon="-76.990955">
+        <name>12th &amp; Irving St NE</name>
+        <cmt>station_id: 31511</cmt>
+    </wpt>
     <wpt lat="38.903732" lon="-76.987211">
+        <name>Neal St &amp; Trinidad Ave NE</name>
+        <cmt>station_id: 31512</cmt>
+    </wpt>
     <wpt lat="38.918155" lon="-77.004746">
+        <name>Rhode Island Ave &amp; V St NE</name>
+        <cmt>station_id: 31513</cmt>
+    </wpt>
     <wpt lat="38.927497" lon="-76.997194">
+        <name>Hamlin &amp; 7th St NE</name>
+        <cmt>station_id: 31514</cmt>
+    </wpt>
     <wpt lat="38.952369" lon="-77.002721">
+        <name>Fort Totten Metro</name>
+        <cmt>station_id: 31515</cmt>
+    </wpt>
     <wpt lat="38.920682" lon="-76.995876">
+        <name>Rhode Island Ave Metro</name>
+        <cmt>station_id: 31516</cmt>
+    </wpt>
     <wpt lat="38.907908" lon="-76.99707">
+        <name>Union Market</name>
+        <cmt>station_id: 31517</cmt>
+    </wpt>
     <wpt lat="38.915604" lon="-76.983683">
+        <name>New York Ave &amp; Hecht Ave NE</name>
+        <cmt>station_id: 31518</cmt>
+    </wpt>
     <wpt lat="38.908643" lon="-77.012365">
+        <name>1st &amp; O St NW</name>
+        <cmt>station_id: 31519</cmt>
+    </wpt>
     <wpt lat="38.91263" lon="-76.971923">
+        <name>24th &amp; R St NE / National Arboretum</name>
+        <cmt>station_id: 31520</cmt>
+    </wpt>
     <wpt lat="38.93293" lon="-76.979517">
+        <name>18th &amp; Monroe St NE</name>
+        <cmt>station_id: 31521</cmt>
+    </wpt>
     <wpt lat="38.91475105441558" lon="-77.00356003311157">
+        <name>2nd St &amp; Seaton Pl NE</name>
+        <cmt>station_id: 31522</cmt>
+    </wpt>
     <wpt lat="38.915" lon="-77.0078">
+        <name>Lincoln Rd &amp; Seaton Pl NE/Harry Thomas Rec Center</name>
+        <cmt>station_id: 31523</cmt>
+    </wpt>
     <wpt lat="38.907444" lon="-76.986813">
+        <name>Montello Ave &amp; Holbrook Terr NE</name>
+        <cmt>station_id: 31524</cmt>
+    </wpt>
     <wpt lat="38.906299" lon="-76.983221">
+        <name>Trinidad Rec Center</name>
+        <cmt>station_id: 31525</cmt>
+    </wpt>
     <wpt lat="38.9243" lon="-76.9859">
+        <name>Rhode Island &amp; Montana Ave NE</name>
+        <cmt>station_id: 31526</cmt>
+    </wpt>
     <wpt lat="38.912524" lon="-77.008798">
+        <name>North Capitol &amp; R St NE</name>
+        <cmt>station_id: 31527</cmt>
+    </wpt>
     <wpt lat="38.938889" lon="-76.997226">
+        <name>John McCormack Rd NE</name>
+        <cmt>station_id: 31528</cmt>
+    </wpt>
     <wpt lat="38.924144" lon="-77.002098">
+        <name>Edgewood Rec Center</name>
+        <cmt>station_id: 31529</cmt>
+    </wpt>
     <wpt lat="38.90304" lon="-77.019027">
+        <name>5th &amp; K St NW</name>
+        <cmt>station_id: 31600</cmt>
+    </wpt>
     <wpt lat="38.8896" lon="-76.9769">
+        <name>19th &amp; East Capitol St SE</name>
+        <cmt>station_id: 31601</cmt>
+    </wpt>
     <wpt lat="38.9308" lon="-77.0315">
+        <name>Park Rd &amp; Holmead Pl NW</name>
+        <cmt>station_id: 31602</cmt>
+    </wpt>
     <wpt lat="38.9056985" lon="-77.00554149999999">
+        <name>1st &amp; M St NE</name>
+        <cmt>station_id: 31603</cmt>
+    </wpt>
     <wpt lat="38.899408" lon="-77.015289">
+        <name>3rd &amp; H St NW</name>
+        <cmt>station_id: 31604</cmt>
+    </wpt>
     <wpt lat="38.8851" lon="-77.0023">
+        <name>3rd &amp; D St SE</name>
+        <cmt>station_id: 31605</cmt>
+    </wpt>
     <wpt lat="38.8803" lon="-76.9862">
+        <name>Potomac &amp; Pennsylvania Ave SE</name>
+        <cmt>station_id: 31606</cmt>
+    </wpt>
     <wpt lat="38.88291524238381" lon="-76.98790684720612">
+        <name>13th &amp; E St SE</name>
+        <cmt>station_id: 31607</cmt>
+    </wpt>
     <wpt lat="38.8792" lon="-76.9953">
+        <name>8th &amp; Eye St SE / Barracks Row</name>
+        <cmt>station_id: 31608</cmt>
+    </wpt>
     <wpt lat="38.87869379969848" lon="-77.02305418067169">
+        <name>Maine Ave &amp; 7th St SW</name>
+        <cmt>station_id: 31609</cmt>
+    </wpt>
     <wpt lat="38.886952" lon="-76.996806">
+        <name>Eastern Market / 7th &amp; North Carolina Ave SE</name>
+        <cmt>station_id: 31610</cmt>
+    </wpt>
     <wpt lat="38.900426869940496" lon="-76.98825000858307">
+        <name>13th &amp; H St NE</name>
+        <cmt>station_id: 31611</cmt>
+    </wpt>
     <wpt lat="38.894799500000005" lon="-76.99651499999999">
+        <name>D St &amp; Maryland Ave NE</name>
+        <cmt>station_id: 31612</cmt>
+    </wpt>
     <wpt lat="38.8840475" lon="-76.9953155">
+        <name>Eastern Market Metro / Pennsylvania Ave &amp; 7th St SE</name>
+        <cmt>station_id: 31613</cmt>
+    </wpt>
     <wpt lat="38.899983" lon="-76.991383">
+        <name>11th &amp; H St NE</name>
+        <cmt>station_id: 31614</cmt>
+    </wpt>
     <wpt lat="38.899972" lon="-76.998347">
+        <name>6th &amp; H St NE</name>
+        <cmt>station_id: 31615</cmt>
+    </wpt>
     <wpt lat="38.900412" lon="-77.001949">
+        <name>3rd &amp; H St NE</name>
+        <cmt>station_id: 31616</cmt>
+    </wpt>
     <wpt lat="38.900413" lon="-76.982872">
+        <name>Bladensburg Rd &amp; Benning Rd NE</name>
+        <cmt>station_id: 31617</cmt>
+    </wpt>
     <wpt lat="38.889955" lon="-77.000349">
+        <name>4th &amp; East Capitol St NE</name>
+        <cmt>station_id: 31618</cmt>
+    </wpt>
     <wpt lat="38.890461" lon="-76.988355">
+        <name>Lincoln Park / 13th &amp; East Capitol St NE </name>
+        <cmt>station_id: 31619</cmt>
+    </wpt>
     <wpt lat="38.897222" lon="-77.019347">
+        <name>5th &amp; F St NW</name>
+        <cmt>station_id: 31620</cmt>
+    </wpt>
     <wpt lat="38.895344" lon="-77.016106">
+        <name>4th &amp; D St NW / Judiciary Square</name>
+        <cmt>station_id: 31621</cmt>
+    </wpt>
     <wpt lat="38.894832" lon="-76.987633">
+        <name>13th &amp; D St NE</name>
+        <cmt>station_id: 31622</cmt>
+    </wpt>
     <wpt lat="38.89696" lon="-77.00493">
+        <name>Columbus Circle / Union Station</name>
+        <cmt>station_id: 31623</cmt>
+    </wpt>
     <wpt lat="38.897446" lon="-77.009888">
+        <name>North Capitol St &amp; F St NW</name>
+        <cmt>station_id: 31624</cmt>
+    </wpt>
     <wpt lat="38.881185" lon="-77.001828">
+        <name>3rd &amp; G St SE</name>
+        <cmt>station_id: 31625</cmt>
+    </wpt>
     <wpt lat="38.88732" lon="-76.983569">
+        <name>15th St &amp; Massachusetts Ave SE</name>
+        <cmt>station_id: 31626</cmt>
+    </wpt>
     <wpt lat="38.90546985747164" lon="-77.0021302244091">
+        <name>3rd &amp; M St NE</name>
+        <cmt>station_id: 31627</cmt>
+    </wpt>
     <wpt lat="38.87885418903164" lon="-77.00572714555358">
+        <name>1st &amp; K St SE</name>
+        <cmt>station_id: 31628</cmt>
+    </wpt>
     <wpt lat="38.889988" lon="-76.995193">
+        <name>8th &amp; East Capitol St NE</name>
+        <cmt>station_id: 31629</cmt>
+    </wpt>
     <wpt lat="38.889908" lon="-76.983326">
+        <name>15th &amp; East Capitol St NE</name>
+        <cmt>station_id: 31630</cmt>
+    </wpt>
     <wpt lat="38.897274" lon="-76.994749">
+        <name>8th &amp; F St NE</name>
+        <cmt>station_id: 31631</cmt>
+    </wpt>
     <wpt lat="38.897195" lon="-76.983575">
+        <name>15th &amp; F St NE</name>
+        <cmt>station_id: 31632</cmt>
+    </wpt>
     <wpt lat="38.887312" lon="-77.025762">
+        <name>Independence Ave &amp; L'Enfant Plaza SW/DOE</name>
+        <cmt>station_id: 31633</cmt>
+    </wpt>
     <wpt lat="38.87501" lon="-77.0024">
+        <name>3rd &amp; Tingey St SE</name>
+        <cmt>station_id: 31634</cmt>
+    </wpt>
     <wpt lat="38.876737" lon="-76.994468">
+        <name>Potomac Ave &amp; 8th St SE</name>
+        <cmt>station_id: 31635</cmt>
+    </wpt>
     <wpt lat="38.90733278055724" lon="-77.01536022239208">
+        <name>New Jersey Ave &amp; N St NW/Dunbar HS</name>
+        <cmt>station_id: 31636</cmt>
+    </wpt>
     <wpt lat="38.899703" lon="-77.008911">
+        <name>North Capitol St &amp; G Pl NE</name>
+        <cmt>station_id: 31637</cmt>
+    </wpt>
     <wpt lat="38.900358" lon="-77.012108">
+        <name>1st &amp; H St NW</name>
+        <cmt>station_id: 31638</cmt>
+    </wpt>
     <wpt lat="38.89967" lon="-77.003666">
+        <name>2nd &amp; G St NE</name>
+        <cmt>station_id: 31639</cmt>
+    </wpt>
     <wpt lat="38.89618" lon="-76.992843">
+        <name>Maryland Ave &amp; E St NE</name>
+        <cmt>station_id: 31640</cmt>
+    </wpt>
     <wpt lat="38.894972" lon="-77.003135">
+        <name>2nd St &amp; Massachusetts Ave NE</name>
+        <cmt>station_id: 31641</cmt>
+    </wpt>
     <wpt lat="38.902405782920965" lon="-77.01600575802613">
+        <name>4th St &amp; K St NW</name>
+        <cmt>station_id: 31642</cmt>
+    </wpt>
     <wpt lat="38.884916" lon="-77.005965">
+        <name>1st &amp; D St SE</name>
+        <cmt>station_id: 31643</cmt>
+    </wpt>
     <wpt lat="38.882489" lon="-76.990121">
+        <name>12th St &amp; Pennsylvania Ave SE</name>
+        <cmt>station_id: 31644</cmt>
+    </wpt>
     <wpt lat="38.90293178679559" lon="-76.99840493024826">
+        <name>6th &amp; K St NE</name>
+        <cmt>station_id: 31645</cmt>
+    </wpt>
     <wpt lat="38.88044" lon="-77.025236">
+        <name>Maine Ave &amp; 9th St SW</name>
+        <cmt>station_id: 31646</cmt>
+    </wpt>
     <wpt lat="38.89222" lon="-76.99602">
+        <name>7th St &amp; Massachusetts Ave NE</name>
+        <cmt>station_id: 31647</cmt>
+    </wpt>
     <wpt lat="38.86994202277852" lon="-77.01082594964026">
+        <name>Potomac Ave &amp; Half St SW</name>
+        <cmt>station_id: 31648</cmt>
+    </wpt>
     <wpt lat="38.931991" lon="-77.032956">
+        <name>14th &amp; Newton St NW</name>
+        <cmt>station_id: 31649</cmt>
+    </wpt>
     <wpt lat="38.876893" lon="-77.006072">
+        <name>1st &amp; M St SE</name>
+        <cmt>station_id: 31650</cmt>
+    </wpt>
     <wpt lat="38.931631771740605" lon="-77.02830204428291">
+        <name>11th &amp; Park Rd NW</name>
+        <cmt>station_id: 31651</cmt>
+    </wpt>
     <wpt lat="38.876751" lon="-77.000736">
+        <name>4th &amp; M St SE</name>
+        <cmt>station_id: 31652</cmt>
+    </wpt>
     <wpt lat="38.902674" lon="-77.021392">
+        <name>7th &amp; K St NW</name>
+        <cmt>station_id: 31653</cmt>
+    </wpt>
     <wpt lat="38.876211" lon="-77.012443">
+        <name>King Greenleaf Rec Center</name>
+        <cmt>station_id: 31654</cmt>
+    </wpt>
     <wpt lat="38.897108" lon="-77.011616">
+        <name>New Jersey Ave &amp; F St NW</name>
+        <cmt>station_id: 31655</cmt>
+    </wpt>
     <wpt lat="38.901935" lon="-76.978627">
+        <name>Maryland Ave &amp; 17th St NE</name>
+        <cmt>station_id: 31656</cmt>
+    </wpt>
     <wpt lat="38.892934" lon="-76.998273">
+        <name>Massachusetts Ave &amp; 6th St NE</name>
+        <cmt>station_id: 31657</cmt>
+    </wpt>
     <wpt lat="38.897808" lon="-76.979634">
+        <name>Rosedale Rec Center</name>
+        <cmt>station_id: 31658</cmt>
+    </wpt>
     <wpt lat="38.885908" lon="-76.991476">
+        <name>11th &amp; C St SE</name>
+        <cmt>station_id: 31659</cmt>
+    </wpt>
     <wpt lat="38.90273208212539" lon="-76.99514995539961">
+        <name>8th &amp; K St NE</name>
+        <cmt>station_id: 31660</cmt>
+    </wpt>
     <wpt lat="38.89994181344238" lon="-76.99489676555251">
+        <name>8th &amp; H St NE</name>
+        <cmt>station_id: 31661</cmt>
+    </wpt>
     <wpt lat="38.902386" lon="-77.005649">
+        <name>1st &amp; K St NE</name>
+        <cmt>station_id: 31662</cmt>
+    </wpt>
     <wpt lat="38.86094484475454" lon="-76.96787820195388">
+        <name>Good Hope &amp; Naylor Rd SE</name>
+        <cmt>station_id: 31700</cmt>
+    </wpt>
     <wpt lat="38.8692" lon="-76.9599">
+        <name>Branch &amp; Pennsylvania Ave SE</name>
+        <cmt>station_id: 31701</cmt>
+    </wpt>
     <wpt lat="38.878" lon="-76.9607">
+        <name>Randle Circle &amp; Minnesota Ave SE</name>
+        <cmt>station_id: 31702</cmt>
+    </wpt>
     <wpt lat="38.897063" lon="-76.947446">
+        <name>Minnesota Ave Metro/DOES</name>
+        <cmt>station_id: 31703</cmt>
+    </wpt>
     <wpt lat="38.901385" lon="-76.941877">
+        <name>Nannie Helen Burroughs &amp; Minnesota Ave NE</name>
+        <cmt>station_id: 31704</cmt>
+    </wpt>
     <wpt lat="38.894" lon="-76.947974">
+        <name>Benning Branch Library</name>
+        <cmt>station_id: 31705</cmt>
+    </wpt>
     <wpt lat="38.86559" lon="-76.952103">
+        <name>Fairfax Village</name>
+        <cmt>station_id: 31706</cmt>
+    </wpt>
     <wpt lat="38.889935" lon="-76.93723">
+        <name>Benning Rd &amp; East Capitol St NE / Benning Rd Metro</name>
+        <cmt>station_id: 31707</cmt>
+    </wpt>
     <wpt lat="38.896544" lon="-76.96012">
+        <name>Anacostia Ave &amp; Benning Rd NE / River Terrace </name>
+        <cmt>station_id: 31708</cmt>
+    </wpt>
     <wpt lat="38.898536" lon="-76.931862">
+        <name>Nannie Helen Burroughs Ave &amp; 49th St NE</name>
+        <cmt>station_id: 31710</cmt>
+    </wpt>
     <wpt lat="38.908473" lon="-76.933099">
+        <name>Deanwood Rec Center</name>
+        <cmt>station_id: 31711</cmt>
+    </wpt>
     <wpt lat="38.894474" lon="-76.974828">
+        <name>Oklahoma Ave &amp; D St NE</name>
+        <cmt>station_id: 31712</cmt>
+    </wpt>
     <wpt lat="38.897407" lon="-76.925907">
+        <name>Division Ave &amp; Foote St NE</name>
+        <cmt>station_id: 31713</cmt>
+    </wpt>
     <wpt lat="38.891805" lon="-76.913563">
+        <name>61st St &amp; Banks Pl NE</name>
+        <cmt>station_id: 31714</cmt>
+    </wpt>
     <wpt lat="38.883011" lon="-76.949709">
+        <name>37th &amp; Ely Pl SE</name>
+        <cmt>station_id: 31715</cmt>
+    </wpt>
     <wpt lat="38.89595477850377" lon="-76.96784492180126">
+        <name>Kingman Island/The Fields at RFK</name>
+        <cmt>station_id: 31716</cmt>
+    </wpt>
     <wpt lat="38.90046824391679" lon="-76.94728716054536">
+        <name>Kenilworth Terrace &amp; Hayes St. NE</name>
+        <cmt>station_id: 31717</cmt>
+    </wpt>
     <wpt lat="38.87622722287574" lon="-76.94098113479062">
+        <name>Ridge Rd Community Center</name>
+        <cmt>station_id: 31718</cmt>
+    </wpt>
     <wpt lat="38.843229943654144" lon="-76.99937591007995">
+        <name>Alabama &amp; MLK Ave SE</name>
+        <cmt>station_id: 31800</cmt>
+    </wpt>
     <wpt lat="38.862669" lon="-76.994637">
+        <name>Anacostia Metro</name>
+        <cmt>station_id: 31801</cmt>
+    </wpt>
     <wpt lat="38.867373" lon="-76.988039">
+        <name>Good Hope Rd &amp; MLK Ave SE</name>
+        <cmt>station_id: 31802</cmt>
+    </wpt>
     <wpt lat="38.866611" lon="-76.985238">
+        <name>Good Hope Rd &amp; 14th St SE</name>
+        <cmt>station_id: 31803</cmt>
+    </wpt>
     <wpt lat="38.865784" lon="-76.9784">
+        <name>Anacostia Library</name>
+        <cmt>station_id: 31804</cmt>
+    </wpt>
     <wpt lat="38.873057" lon="-76.971015">
+        <name>Pennsylvania &amp; Minnesota Ave SE</name>
+        <cmt>station_id: 31805</cmt>
+    </wpt>
     <wpt lat="38.844711" lon="-76.987823">
+        <name>Congress Heights Metro</name>
+        <cmt>station_id: 31806</cmt>
+    </wpt>
     <wpt lat="38.863897" lon="-76.990037">
+        <name>Pleasant St &amp; MLK Ave SE</name>
+        <cmt>station_id: 31807</cmt>
+    </wpt>
     <wpt lat="38.831516" lon="-77.008133">
+        <name>South Capitol &amp; Atlantic St SW</name>
+        <cmt>station_id: 31811</cmt>
+    </wpt>
     <wpt lat="38.870695" lon="-76.982359">
+        <name>16th &amp; Q St SE / Anacostia HS</name>
+        <cmt>station_id: 31812</cmt>
+    </wpt>
     <wpt lat="38.84627" lon="-76.98185">
+        <name>Alabama Ave &amp; Stanton Rd SE / Shops at Park Village</name>
+        <cmt>station_id: 31813</cmt>
+    </wpt>
     <wpt lat="38.84377" lon="-76.97557">
+        <name>Mississippi Ave &amp; 19th St SE / THEARC</name>
+        <cmt>station_id: 31814</cmt>
+    </wpt>
     <wpt lat="38.84623" lon="-76.97703">
+        <name>19th &amp; Savannah St SE</name>
+        <cmt>station_id: 31815</cmt>
+    </wpt>
     <wpt lat="38.836" lon="-77.0009">
+        <name>4th St &amp; Mississippi Ave SE</name>
+        <cmt>station_id: 31816</cmt>
+    </wpt>
     <wpt lat="38.824481" lon="-77.005497">
+        <name>1st &amp; S Capitol St SE / Oxon Run Trail</name>
+        <cmt>station_id: 31817</cmt>
+    </wpt>
     <wpt lat="38.82373" lon="-77.00223">
+        <name>Livingston Rd &amp; 3rd St SE</name>
+        <cmt>station_id: 31818</cmt>
+    </wpt>
     <wpt lat="38.81909" lon="-77.01033">
+        <name>Joliet St &amp; MLK Ave SW/Bald Eagle Rec Ctr</name>
+        <cmt>station_id: 31819</cmt>
+    </wpt>
     <wpt lat="38.87335" lon="-76.9834">
+        <name>Anacostia Park</name>
+        <cmt>station_id: 31820</cmt>
+    </wpt>
     <wpt lat="38.855004" lon="-76.984512">
+        <name>Stanton Square SE</name>
+        <cmt>station_id: 31822</cmt>
+    </wpt>
     <wpt lat="38.835737" lon="-76.983144">
+        <name>United Medical Center</name>
+        <cmt>station_id: 31823</cmt>
+    </wpt>
     <wpt lat="38.83664589087876" lon="-76.99358893257627">
+        <name>Valley Ave &amp; Wheeler Rd SE</name>
+        <cmt>station_id: 31824</cmt>
+    </wpt>
     <wpt lat="38.85736901879376" lon="-76.97768800718816">
+        <name>Fort Stanton Rec Center</name>
+        <cmt>station_id: 31825</cmt>
+    </wpt>
     <wpt lat="38.898301" lon="-77.118009">
+        <name>Lee Hwy &amp; N Woodstock St</name>
+        <cmt>station_id: 31900</cmt>
+    </wpt>
     <wpt lat="38.884829" lon="-77.127671">
+        <name>Washington Blvd &amp; N Frederick St</name>
+        <cmt>station_id: 31901</cmt>
+    </wpt>
     <wpt lat="38.876528" lon="-77.12712">
+        <name>Wilson Blvd &amp; N Illinois St </name>
+        <cmt>station_id: 31902</cmt>
+    </wpt>
     <wpt lat="38.799267" lon="-77.0447">
+        <name>Royal St &amp; Wilkes St</name>
+        <cmt>station_id: 31903</cmt>
+    </wpt>
     <wpt lat="38.88532085987536" lon="-77.15642710230446">
+        <name>East Falls Church Metro / Sycamore St &amp; 19th St N</name>
+        <cmt>station_id: 31904</cmt>
+    </wpt>
     <wpt lat="38.880992" lon="-77.135271">
+        <name>Kennebec St &amp; 11th St N</name>
+        <cmt>station_id: 31905</cmt>
+    </wpt>
     <wpt lat="38.812711" lon="-77.061715">
+        <name>Commonwealth Ave &amp; Oak St</name>
+        <cmt>station_id: 31906</cmt>
+    </wpt>
     <wpt lat="38.798133" lon="-77.0487">
+        <name>Franklin St &amp; S Washington St</name>
+        <cmt>station_id: 31907</cmt>
+    </wpt>
     <wpt lat="38.828437" lon="-77.086031">
+        <name>Radford St &amp; Osage St</name>
+        <cmt>station_id: 31908</cmt>
+    </wpt>
     <wpt lat="38.843422" lon="-77.064016">
+        <name>Mount Vernon Ave &amp; Four Mile Run Park</name>
+        <cmt>station_id: 31909</cmt>
+    </wpt>
     <wpt lat="38.822738" lon="-77.049265">
+        <name>Potomac Ave &amp; Main Line Blvd</name>
+        <cmt>station_id: 31910</cmt>
+    </wpt>
     <wpt lat="38.841291" lon="-77.063093">
+        <name>Mount Vernon Ave &amp; Bruce St</name>
+        <cmt>station_id: 31912</cmt>
+    </wpt>
     <wpt lat="38.82005811677109" lon="-77.06282089609908">
+        <name>Commonwealth Ave &amp; E Monroe Ave</name>
+        <cmt>station_id: 31913</cmt>
+    </wpt>
     <wpt lat="38.797557" lon="-77.053766">
+        <name>Lee Center</name>
+        <cmt>station_id: 31914</cmt>
+    </wpt>
     <wpt lat="38.818748" lon="-77.047783">
+        <name>Powhatan St &amp; Bashford Ln</name>
+        <cmt>station_id: 31915</cmt>
+    </wpt>
     <wpt lat="38.829545" lon="-77.047844">
+        <name>Potomac Ave &amp; Swann Ave</name>
+        <cmt>station_id: 31916</cmt>
+    </wpt>
     <wpt lat="38.89386" lon="-77.070862">
+        <name>N Lynn St &amp; Fairfax Dr</name>
+        <cmt>station_id: 31917</cmt>
+    </wpt>
     <wpt lat="38.812351" lon="-77.040691">
+        <name>Madison St &amp; Fairfax St</name>
+        <cmt>station_id: 31918</cmt>
+    </wpt>
     <wpt lat="38.876695" lon="-77.112982">
+        <name>Carlin Springs Rd &amp; N Thomas St</name>
+        <cmt>station_id: 31919</cmt>
+    </wpt>
     <wpt lat="38.888282" lon="-77.111066">
+        <name>Washington-Liberty High School / N Stafford St &amp; Generals Way</name>
+        <cmt>station_id: 31920</cmt>
+    </wpt>
     <wpt lat="38.886048" lon="-77.142317">
+        <name>Westover Library / Washington Blvd &amp; N McKinley Rd</name>
+        <cmt>station_id: 31921</cmt>
+    </wpt>
     <wpt lat="38.858915" lon="-77.1028735">
+        <name>Columbia Pike &amp; S Taylor St</name>
+        <cmt>station_id: 31923</cmt>
+    </wpt>
     <wpt lat="38.892556" lon="-77.082089">
+        <name>Wilson Blvd &amp; N Troy St</name>
+        <cmt>station_id: 31924</cmt>
+    </wpt>
     <wpt lat="38.848304" lon="-77.05122">
+        <name>Crystal Dr &amp; Potomac Ave</name>
+        <cmt>station_id: 31925</cmt>
+    </wpt>
     <wpt lat="38.988562" lon="-77.096539">
+        <name>Norfolk Ave &amp; Fairmont St</name>
+        <cmt>station_id: 32000</cmt>
+    </wpt>
     <wpt lat="38.985404" lon="-77.023082">
+        <name>Fenton St &amp; New York Ave </name>
+        <cmt>station_id: 32001</cmt>
+    </wpt>
     <wpt lat="38.981103" lon="-77.097426">
+        <name>Bethesda Ave &amp; Arlington Rd</name>
+        <cmt>station_id: 32002</cmt>
+    </wpt>
     <wpt lat="38.983838" lon="-77.09221">
+        <name>Montgomery Ave &amp; Waverly St </name>
+        <cmt>station_id: 32003</cmt>
+    </wpt>
     <wpt lat="39.096312" lon="-77.192672">
+        <name>Fallsgrove Blvd &amp; Fallsgrove Dr</name>
+        <cmt>station_id: 32004</cmt>
+    </wpt>
     <wpt lat="39.093783" lon="-77.202501">
+        <name>Traville Gateway Dr &amp; Gudelsky Dr</name>
+        <cmt>station_id: 32005</cmt>
+    </wpt>
     <wpt lat="38.987" lon="-77.029417">
+        <name>13th St &amp; Eastern Ave</name>
+        <cmt>station_id: 32006</cmt>
+    </wpt>
     <wpt lat="39.084125" lon="-77.151291">
+        <name>E Montgomery Ave &amp; Maryland Ave</name>
+        <cmt>station_id: 32007</cmt>
+    </wpt>
     <wpt lat="38.98954" lon="-77.098029">
+        <name>Cordell &amp; Norfolk Ave</name>
+        <cmt>station_id: 32008</cmt>
+    </wpt>
     <wpt lat="39.094772" lon="-77.145213">
+        <name>Frederick Ave &amp; Horners Ln</name>
+        <cmt>station_id: 32009</cmt>
+    </wpt>
     <wpt lat="38.98128" lon="-77.011336">
+        <name>Philadelphia &amp; Maple Ave</name>
+        <cmt>station_id: 32010</cmt>
+    </wpt>
     <wpt lat="38.983627" lon="-77.006311">
+        <name>Maple &amp; Ritchie Ave</name>
+        <cmt>station_id: 32011</cmt>
+    </wpt>
     <wpt lat="38.99507590159511" lon="-77.02932794805717">
+        <name>Silver Spring Metro / Colesville Rd &amp; Wayne Ave</name>
+        <cmt>station_id: 32012</cmt>
+    </wpt>
     <wpt lat="38.983525" lon="-77.095367">
+        <name>Montgomery &amp; East Ln</name>
+        <cmt>station_id: 32013</cmt>
+    </wpt>
     <wpt lat="38.961763" lon="-77.085998">
+        <name>Friendship Hts Metro / Wisconsin Ave &amp; Wisconsin Cir</name>
+        <cmt>station_id: 32014</cmt>
+    </wpt>
     <wpt lat="39.120045" lon="-77.156985">
+        <name>Crabbs Branch Way &amp; Redland Rd</name>
+        <cmt>station_id: 32015</cmt>
+    </wpt>
     <wpt lat="39.099376" lon="-77.188014">
+        <name>Fallsgrove Dr &amp; W Montgomery Ave</name>
+        <cmt>station_id: 32016</cmt>
+    </wpt>
     <wpt lat="39.083673" lon="-77.149162">
+        <name>Monroe St &amp; Monroe Pl</name>
+        <cmt>station_id: 32017</cmt>
+    </wpt>
     <wpt lat="39.123513" lon="-77.15741">
+        <name>Needwood Rd &amp; Eagles Head Ct</name>
+        <cmt>station_id: 32018</cmt>
+    </wpt>
     <wpt lat="38.990249" lon="-77.02935">
+        <name>East West Hwy &amp; Blair Mill Rd</name>
+        <cmt>station_id: 32019</cmt>
+    </wpt>
     <wpt lat="39.107709" lon="-77.152072">
+        <name>Crabbs Branch Way &amp; Calhoun Pl</name>
+        <cmt>station_id: 32020</cmt>
+    </wpt>
     <wpt lat="38.982456" lon="-77.091991">
+        <name>47th &amp; Elm St</name>
+        <cmt>station_id: 32021</cmt>
+    </wpt>
     <wpt lat="39.02538709811816" lon="-77.0445629977169">
+        <name>Dennis Ave &amp; Amherst Ave</name>
+        <cmt>station_id: 32022</cmt>
+    </wpt>
     <wpt lat="39.095661" lon="-77.159048">
+        <name>Montgomery College / W Campus Dr &amp; Mannakee St</name>
+        <cmt>station_id: 32023</cmt>
+    </wpt>
     <wpt lat="38.989724" lon="-77.023854">
+        <name>Fenton St &amp; Gist Ave</name>
+        <cmt>station_id: 32024</cmt>
+    </wpt>
     <wpt lat="38.975" lon="-77.01121">
+        <name>Carroll &amp; Westmoreland Ave</name>
+        <cmt>station_id: 32025</cmt>
+    </wpt>
     <wpt lat="38.977933" lon="-77.006472">
+        <name>Carroll &amp; Ethan Allen Ave</name>
+        <cmt>station_id: 32026</cmt>
+    </wpt>
     <wpt lat="38.992375" lon="-77.100104">
+        <name>Battery Ln &amp; Trolley Trail</name>
+        <cmt>station_id: 32027</cmt>
+    </wpt>
     <wpt lat="38.990639" lon="-77.100239">
+        <name>Norfolk &amp; Rugby Ave</name>
+        <cmt>station_id: 32028</cmt>
+    </wpt>
     <wpt lat="38.977093" lon="-77.094589">
+        <name>Offutt Ln &amp; Chevy Chase Dr</name>
+        <cmt>station_id: 32029</cmt>
+    </wpt>
     <wpt lat="39.102099" lon="-77.200322">
+        <name>Broschart &amp; Blackwell Rd</name>
+        <cmt>station_id: 32030</cmt>
+    </wpt>
     <wpt lat="39.076331" lon="-77.141378">
+        <name>Fleet St &amp; Ritchie Pkwy</name>
+        <cmt>station_id: 32032</cmt>
+    </wpt>
     <wpt lat="39.102212" lon="-77.177091">
+        <name>Piccard &amp; W Gude Dr</name>
+        <cmt>station_id: 32033</cmt>
+    </wpt>
     <wpt lat="38.99403492530418" lon="-77.030371213768">
+        <name>Silver Spring Transit Center - Top Level</name>
+        <cmt>station_id: 32034</cmt>
+    </wpt>
     <wpt lat="38.999388" lon="-77.031555">
+        <name>Georgia Ave &amp; Spring St</name>
+        <cmt>station_id: 32035</cmt>
+    </wpt>
     <wpt lat="38.997033" lon="-77.025608">
+        <name>Fenton St &amp; Ellsworth Dr </name>
+        <cmt>station_id: 32036</cmt>
+    </wpt>
     <wpt lat="39.114688" lon="-77.171487">
+        <name>King Farm Blvd &amp; Pleasant Dr</name>
+        <cmt>station_id: 32037</cmt>
+    </wpt>
     <wpt lat="39.110314" lon="-77.182669">
+        <name>King Farm Blvd &amp; Piccard Dr</name>
+        <cmt>station_id: 32038</cmt>
+    </wpt>
     <wpt lat="38.999634" lon="-77.109647">
+        <name>Old Georgetown Rd &amp; Southwick St</name>
+        <cmt>station_id: 32039</cmt>
+    </wpt>
     <wpt lat="38.96115" lon="-77.088659">
+        <name>Friendship Blvd &amp; Willard Ave</name>
+        <cmt>station_id: 32040</cmt>
+    </wpt>
     <wpt lat="39.103091" lon="-77.196442">
+        <name>Medical Center Dr &amp; Key West Ave</name>
+        <cmt>station_id: 32041</cmt>
+    </wpt>
     <wpt lat="39.097636" lon="-77.196636">
+        <name>Shady Grove Hospital</name>
+        <cmt>station_id: 32042</cmt>
+    </wpt>
     <wpt lat="38.997445" lon="-77.023894">
+        <name>Veterans Pl &amp; Pershing Dr </name>
+        <cmt>station_id: 32043</cmt>
+    </wpt>
     <wpt lat="39.085394" lon="-77.145803">
+        <name>Rockville Metro East</name>
+        <cmt>station_id: 32044</cmt>
+    </wpt>
     <wpt lat="39.119765" lon="-77.166093">
+        <name>Shady Grove Metro West</name>
+        <cmt>station_id: 32045</cmt>
+    </wpt>
     <wpt lat="38.964992" lon="-77.103381">
+        <name>River Rd &amp; Landy Ln</name>
+        <cmt>station_id: 32046</cmt>
+    </wpt>
     <wpt lat="39.084379" lon="-77.146866">
+        <name>Rockville Metro West</name>
+        <cmt>station_id: 32047</cmt>
+    </wpt>
     <wpt lat="38.984691" lon="-77.094537">
+        <name>Bethesda Metro / Wisconsin Ave &amp; Old Georgetown Rd</name>
+        <cmt>station_id: 32048</cmt>
+    </wpt>
     <wpt lat="38.986743" lon="-77.000035">
+        <name>WAU / Flower Ave &amp; Division St</name>
+        <cmt>station_id: 32049</cmt>
+    </wpt>
     <wpt lat="38.997653" lon="-77.034499">
+        <name>Spring St &amp; 2nd Ave</name>
+        <cmt>station_id: 32050</cmt>
+    </wpt>
     <wpt lat="39.105295" lon="-77.194774">
+        <name>Key West Ave &amp; Siesta Key Way</name>
+        <cmt>station_id: 32052</cmt>
+    </wpt>
     <wpt lat="38.999378" lon="-77.097882">
+        <name>Medical Center Metro </name>
+        <cmt>station_id: 32053</cmt>
+    </wpt>
     <wpt lat="38.999679" lon="-77.051168">
+        <name>Lyttonsville Rd &amp; Lyttonsville Pl</name>
+        <cmt>station_id: 32054</cmt>
+    </wpt>
     <wpt lat="38.979875" lon="-77.093522">
+        <name>Woodmont Ave &amp; Strathmore St</name>
+        <cmt>station_id: 32055</cmt>
+    </wpt>
     <wpt lat="38.995681" lon="-77.038721">
+        <name>East West Hwy &amp; 16th St</name>
+        <cmt>station_id: 32056</cmt>
+    </wpt>
     <wpt lat="39.014716" lon="-77.107143">
+        <name>Pooks Hill Rd &amp; Linden Ave</name>
+        <cmt>station_id: 32057</cmt>
+    </wpt>
     <wpt lat="38.990874" lon="-77.016311">
+        <name>Sligo Ave &amp; Carroll Ln</name>
+        <cmt>station_id: 32058</cmt>
+    </wpt>
     <wpt lat="38.98265" lon="-76.988311">
+        <name>Takoma Park Rec Center</name>
+        <cmt>station_id: 32059</cmt>
+    </wpt>
     <wpt lat="38.988101" lon="-76.988422">
+        <name>New Hampshire &amp; Kirklynn Ave</name>
+        <cmt>station_id: 32061</cmt>
+    </wpt>
     <wpt lat="39.0383825" lon="-77.05102149999999">
+        <name>Wheaton Metro / Georgia Ave &amp; Reedie Dr</name>
+        <cmt>station_id: 32062</cmt>
+    </wpt>
     <wpt lat="39.044887" lon="-77.047788">
+        <name>Amherst Ave &amp; Elkins St</name>
+        <cmt>station_id: 32063</cmt>
+    </wpt>
     <wpt lat="39.035965" lon="-77.048395">
+        <name>Amherst Ave &amp; Prichard Rd</name>
+        <cmt>station_id: 32064</cmt>
+    </wpt>
     <wpt lat="39.043272" lon="-77.053085">
+        <name>Grandview &amp; Blueridge Ave</name>
+        <cmt>station_id: 32065</cmt>
+    </wpt>
     <wpt lat="39.032029" lon="-77.04735">
+        <name>Windham Ln &amp; Amherst Ave</name>
+        <cmt>station_id: 32066</cmt>
+    </wpt>
     <wpt lat="39.121327" lon="-77.164969">
+        <name>Shady Grove Metro East</name>
+        <cmt>station_id: 32067</cmt>
+    </wpt>
     <wpt lat="39.126" lon="-77.1673">
+        <name>Columbus Ave &amp; Tribeca St</name>
+        <cmt>station_id: 32068</cmt>
+    </wpt>
     <wpt lat="39.12333" lon="-77.16486">
+        <name>Columbus Ave &amp; Gramercy Blvd</name>
+        <cmt>station_id: 32069</cmt>
+    </wpt>
     <wpt lat="39.105642" lon="-77.20386">
+        <name>Key West Ave &amp; Great Seneca Hwy</name>
+        <cmt>station_id: 32070</cmt>
+    </wpt>
     <wpt lat="39.106971" lon="-77.192645">
+        <name>Corporate Blvd &amp; Omega Dr</name>
+        <cmt>station_id: 32071</cmt>
+    </wpt>
     <wpt lat="39.106152" lon="-77.202354">
+        <name>Key West Ave &amp; Diamondback Dr</name>
+        <cmt>station_id: 32072</cmt>
+    </wpt>
     <wpt lat="39.04313" lon="-77.05006">
+        <name>Blueridge Ave &amp; Elkin St</name>
+        <cmt>station_id: 32073</cmt>
+    </wpt>
     <wpt lat="39.062041" lon="-77.120776">
+        <name>Twinbrook Metro</name>
+        <cmt>station_id: 32074</cmt>
+    </wpt>
     <wpt lat="39.04753" lon="-77.11287">
+        <name>White Flint Metro</name>
+        <cmt>station_id: 32075</cmt>
+    </wpt>
     <wpt lat="39.049" lon="-77.10933">
+        <name>Citadel Ave &amp; McGrath Blvd</name>
+        <cmt>station_id: 32076</cmt>
+    </wpt>
     <wpt lat="39.049765" lon="-77.11368">
+        <name>Rockville Pike &amp; Old Georgetown Rd</name>
+        <cmt>station_id: 32077</cmt>
+    </wpt>
     <wpt lat="39.04317" lon="-77.1135">
+        <name>Woodglen Dr &amp; Executive Blvd</name>
+        <cmt>station_id: 32078</cmt>
+    </wpt>
     <wpt lat="39.04873" lon="-77.1257">
+        <name>Executive Blvd &amp; E Jefferson St</name>
+        <cmt>station_id: 32079</cmt>
+    </wpt>
     <wpt lat="39.0629" lon="-77.113454">
+        <name>Fishers Ln &amp; Rock Creek Mill Rd</name>
+        <cmt>station_id: 32080</cmt>
+    </wpt>
     <wpt lat="39.06219" lon="-77.129235">
+        <name>Congressional Ln &amp; E Jefferson St</name>
+        <cmt>station_id: 32081</cmt>
+    </wpt>
     <wpt lat="39.00048" lon="-77.00077">
+        <name>Garland Ave &amp; Walden Rd</name>
+        <cmt>station_id: 32082</cmt>
+    </wpt>
     <wpt lat="39.050539" lon="-77.115212">
+        <name>Rockville Pike &amp; Meeting St</name>
+        <cmt>station_id: 32083</cmt>
+    </wpt>
     <wpt lat="39.0473229" lon="-77.05109695">
+        <name>Wheaton Library &amp; Community Rec Center</name>
+        <cmt>station_id: 32084</cmt>
+    </wpt>
     <wpt lat="38.929261" lon="-77.240654">
+        <name>Spring Hill Metro</name>
+        <cmt>station_id: 32200</cmt>
+    </wpt>
     <wpt lat="38.92403" lon="-77.235955">
+        <name>Westpark Dr &amp; Leesburg Pike</name>
+        <cmt>station_id: 32201</cmt>
+    </wpt>
     <wpt lat="38.919475" lon="-77.221179">
+        <name>Tysons One Pl &amp; Chain Bridge Rd</name>
+        <cmt>station_id: 32203</cmt>
+    </wpt>
     <wpt lat="38.920939" lon="-77.222115">
+        <name>Tysons Corner Station</name>
+        <cmt>station_id: 32204</cmt>
+    </wpt>
     <wpt lat="38.924437" lon="-77.217664">
+        <name>Westpark &amp; Jones Branch Dr</name>
+        <cmt>station_id: 32205</cmt>
+    </wpt>
     <wpt lat="38.931911" lon="-77.219261">
+        <name>Jones Branch &amp; Westbranch Dr</name>
+        <cmt>station_id: 32206</cmt>
+    </wpt>
     <wpt lat="38.928919" lon="-77.225394">
+        <name>Westpark &amp; Park Run Dr</name>
+        <cmt>station_id: 32207</cmt>
+    </wpt>
     <wpt lat="38.932636" lon="-77.231825">
+        <name>Tysons West Transit Center</name>
+        <cmt>station_id: 32208</cmt>
+    </wpt>
     <wpt lat="38.962524" lon="-77.361902">
+        <name>Town Center Pkwy &amp; Bowman Towne Dr</name>
+        <cmt>station_id: 32210</cmt>
+    </wpt>
     <wpt lat="38.960574" lon="-77.356324">
+        <name>New Dominion Pkwy &amp; Fountain Dr</name>
+        <cmt>station_id: 32212</cmt>
+    </wpt>
     <wpt lat="38.955079" lon="-77.351649">
+        <name>Sunset Hills &amp; Old Reston Ave</name>
+        <cmt>station_id: 32213</cmt>
+    </wpt>
     <wpt lat="38.957037" lon="-77.359718">
+        <name>Reston Town Center Transit Station</name>
+        <cmt>station_id: 32214</cmt>
+    </wpt>
     <wpt lat="38.94660796060749" lon="-77.3393912051754">
+        <name>Wiehle Ave &amp; Reston Station Blvd</name>
+        <cmt>station_id: 32215</cmt>
+    </wpt>
     <wpt lat="38.959633" lon="-77.358741">
+        <name>Library St &amp; Freedom Dr</name>
+        <cmt>station_id: 32216</cmt>
+    </wpt>
     <wpt lat="38.95534" lon="-77.357611">
+        <name>Sunset Hills Rd &amp; Discovery Square</name>
+        <cmt>station_id: 32217</cmt>
+    </wpt>
     <wpt lat="38.960084" lon="-77.353414">
+        <name>Temporary Rd &amp; Old Reston Ave</name>
+        <cmt>station_id: 32218</cmt>
+    </wpt>
     <wpt lat="38.955314" lon="-77.368416">
+        <name>Reston YMCA</name>
+        <cmt>station_id: 32219</cmt>
+    </wpt>
     <wpt lat="38.951443" lon="-77.340377">
+        <name>Sunset Hills Rd &amp; Isaac Newton Square</name>
+        <cmt>station_id: 32220</cmt>
+    </wpt>
     <wpt lat="38.923083" lon="-77.227417">
+        <name>Greensboro &amp; International Dr</name>
+        <cmt>station_id: 32221</cmt>
+    </wpt>
     <wpt lat="38.915246" lon="-77.220157">
+        <name>Towers Crescent Dr &amp; Tysons One Pl</name>
+        <cmt>station_id: 32222</cmt>
+    </wpt>
     <wpt lat="38.970412" lon="-77.340787">
+        <name>North Shore Dr &amp; Village Rd</name>
+        <cmt>station_id: 32223</cmt>
+    </wpt>
     <wpt lat="38.95517079902245" lon="-77.3630940457077">
+        <name>Town Center Pkwy &amp; Sunset Hills Rd</name>
+        <cmt>station_id: 32224</cmt>
+    </wpt>
     <wpt lat="38.9642078705031" lon="-77.35428017629624">
+        <name>Reston Pkwy &amp; Spectrum Dr</name>
+        <cmt>station_id: 32225</cmt>
+    </wpt>
     <wpt lat="38.92245" lon="-77.23034">
+        <name>Greensboro &amp; Pinnacle Dr</name>
+        <cmt>station_id: 32227</cmt>
+    </wpt>
     <wpt lat="38.944707" lon="-77.335425">
+        <name>Campus Commons</name>
+        <cmt>station_id: 32228</cmt>
+    </wpt>
     <wpt lat="38.92755" lon="-77.226644">
+        <name>Park Run &amp; Onyx Dr</name>
+        <cmt>station_id: 32229</cmt>
+    </wpt>
     <wpt lat="38.924002037600914" lon="-77.20812689168548">
+        <name>McLean Metro</name>
+        <cmt>station_id: 32230</cmt>
+    </wpt>
     <wpt lat="38.8828" lon="-77.2283">
+        <name>Dunn Loring Metro</name>
+        <cmt>station_id: 32231</cmt>
+    </wpt>
     <wpt lat="38.9001" lon="-77.1887">
+        <name>West Falls Church Metro</name>
+        <cmt>station_id: 32232</cmt>
+    </wpt>
     <wpt lat="38.928502" lon="-77.215624">
+        <name>Jones Branch Drive &amp; Scotts Crossing Rd</name>
+        <cmt>station_id: 32233</cmt>
+    </wpt>
     <wpt lat="38.879355" lon="-77.230681">
+        <name>Merrilee Dr &amp; Lauren Elizabeth Lane</name>
+        <cmt>station_id: 32234</cmt>
+    </wpt>
     <wpt lat="38.870093" lon="-77.22997">
+        <name>Merrifield Cinema &amp; Merrifield Town Center</name>
+        <cmt>station_id: 32235</cmt>
+    </wpt>
     <wpt lat="38.908391" lon="-76.843263">
+        <name>1301 McCormick Dr / Wayne K. Curry Admin Bldg</name>
+        <cmt>station_id: 32400</cmt>
+    </wpt>
     <wpt lat="38.899811" lon="-76.844604">
+        <name>Largo Town Center Metro</name>
+        <cmt>station_id: 32401</cmt>
+    </wpt>
     <wpt lat="38.969581" lon="-76.937349">
+        <name>Baltimore Ave &amp; Van Buren St / Riverdale Park Station</name>
+        <cmt>station_id: 32402</cmt>
+    </wpt>
     <wpt lat="38.95548" lon="-76.940133">
+        <name>Baltimore Ave &amp; Jefferson St</name>
+        <cmt>station_id: 32403</cmt>
+    </wpt>
     <wpt lat="38.936213" lon="-76.960054">
+        <name>Perry &amp; 35th St</name>
+        <cmt>station_id: 32404</cmt>
+    </wpt>
     <wpt lat="38.88994" lon="-76.825535">
+        <name>Largo Rd &amp; Campus Way / Prince Georges's Comm Col</name>
+        <cmt>station_id: 32405</cmt>
+    </wpt>
     <wpt lat="38.782633" lon="-77.016059">
+        <name>Fleet St &amp; Waterfront St</name>
+        <cmt>station_id: 32406</cmt>
+    </wpt>
     <wpt lat="38.798749" lon="-77.00103">
+        <name>Oxon Hill Park &amp; Ride</name>
+        <cmt>station_id: 32407</cmt>
+    </wpt>
     <wpt lat="38.959361" lon="-76.946361">
+        <name>Oglethorpe St &amp; 42nd Ave</name>
+        <cmt>station_id: 32408</cmt>
+    </wpt>
     <wpt lat="38.840107" lon="-76.9753">
+        <name>Southern Ave Metro</name>
+        <cmt>station_id: 32409</cmt>
+    </wpt>
     <wpt lat="38.9546" lon="-76.9595">
+        <name>Queens Chapel &amp; Hamilton St</name>
+        <cmt>station_id: 32410</cmt>
+    </wpt>
     <wpt lat="38.975505" lon="-76.952199">
+        <name>Northwestern High School</name>
+        <cmt>station_id: 32411</cmt>
+    </wpt>
     <wpt lat="38.974205" lon="-76.995227">
+        <name>New Hampshire Ave &amp; East-West Hwy</name>
+        <cmt>station_id: 32412</cmt>
+    </wpt>
     <wpt lat="38.939271" lon="-76.955047">
+        <name>Rhode Island Ave &amp; 39th St / Brentwood Arts Exchange</name>
+        <cmt>station_id: 32413</cmt>
+    </wpt>
     <wpt lat="38.9725" lon="-76.9807">
+        <name>Riggs Rd &amp; East West Hwy</name>
+        <cmt>station_id: 32414</cmt>
+    </wpt>
     <wpt lat="38.7968" lon="-77.0026">
+        <name>Tanger Outlets</name>
+        <cmt>station_id: 32415</cmt>
+    </wpt>
     <wpt lat="38.961737" lon="-76.995922">
+        <name>Chillum Rd &amp; Riggs Rd / Riggs Plaza</name>
+        <cmt>station_id: 32416</cmt>
+    </wpt>
     <wpt lat="38.9698" lon="-76.9493">
+        <name>Hyattsville Library / Adelphi Rd &amp; Toledo Rd</name>
+        <cmt>station_id: 32417</cmt>
+    </wpt>
     <wpt lat="38.955349" lon="-76.968084">
+        <name>West Hyattsville Metro</name>
+        <cmt>station_id: 32418</cmt>
+    </wpt>
     <wpt lat="38.888524" lon="-76.913188">
+        <name>Capitol Heights Metro</name>
+        <cmt>station_id: 32419</cmt>
+    </wpt>
     <wpt lat="38.965742" lon="-76.954803">
+        <name>Prince George's Plaza Metro</name>
+        <cmt>station_id: 32420</cmt>
+    </wpt>
     <wpt lat="38.962119" lon="-76.935578">
+        <name>Riverdale Park Town Center</name>
+        <cmt>station_id: 32421</cmt>
+    </wpt>
     <wpt lat="38.968842" lon="-76.954171">
+        <name>The Mall at Prince Georges</name>
+        <cmt>station_id: 32422</cmt>
+    </wpt>
     <wpt lat="38.7859" lon="-77.0167">
+        <name>National Harbor Carousel</name>
+        <cmt>station_id: 32423</cmt>
+    </wpt>
     <wpt lat="38.895172" lon="-77.190275">
+        <name>Meridian High School / Haycock Rd &amp; Leesburg Pike</name>
+        <cmt>station_id: 32600</cmt>
+    </wpt>
     <wpt lat="38.882746" lon="-77.170032">
+        <name>State Theatre / Park Pl &amp; N Washington St</name>
+        <cmt>station_id: 32601</cmt>
+    </wpt>
     <wpt lat="38.88837" lon="-77.179832">
+        <name>N Oak St &amp; W Broad St</name>
+        <cmt>station_id: 32602</cmt>
+    </wpt>
     <wpt lat="38.887403" lon="-77.176992">
+        <name>Pennsylvania Ave &amp; Park Ave</name>
+        <cmt>station_id: 32603</cmt>
+    </wpt>
     <wpt lat="38.880612" lon="-77.171891">
+        <name>E Fairfax St &amp; S Washington St</name>
+        <cmt>station_id: 32604</cmt>
+    </wpt>
     <wpt lat="38.883601" lon="-77.173438">
+        <name>W Broad St &amp; Little Falls St</name>
+        <cmt>station_id: 32605</cmt>
+    </wpt>
     <wpt lat="38.878085" lon="-77.153953">
+        <name>N Roosevelt St &amp; Roosevelt Blvd</name>
+        <cmt>station_id: 32606</cmt>
+    </wpt>
     <wpt lat="38.87972" lon="-77.178408">
+        <name>S Maple Ave &amp; S Washington St</name>
+        <cmt>station_id: 32607</cmt>
+    </wpt>
     <wpt lat="38.885434" lon="-77.173605">
+        <name>Falls Church City Hall / Park Ave &amp; Little Falls St</name>
+        <cmt>station_id: 32608</cmt>
+    </wpt>
     <wpt lat="38.885621" lon="-77.166917">
+        <name>W Columbia St &amp; N Washington St</name>
+        <cmt>station_id: 32609</cmt>
+    </wpt>
     <wpt lat="38.964406" lon="-77.010759">
+        <name>Motivate BX Tech office</name>
+        <cmt>station_id: 32900</cmt>
+    </wpt>
     <wpt lat="38.96381" lon="-77.010266">
+        <name>6035 Warehouse</name>
+        <cmt>station_id: 32901</cmt>
+    </wpt>
+</gpx>
