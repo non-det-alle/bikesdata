@@ -302,7 +302,7 @@
         <cmt>station_id: 31075</cmt>
     </wpt>
     <wpt lat="38.840283" lon="-77.087871">
-        <name>S Randolph St &amp; Campbell Ave</name>
+        <name>Shirlington Transit Center / Quincy St &amp; Randolph St</name>
         <cmt>station_id: 31076</cmt>
     </wpt>
     <wpt lat="38.88992" lon="-77.071301">
@@ -410,7 +410,7 @@
         <cmt>station_id: 31102</cmt>
     </wpt>
     <wpt lat="38.926106" lon="-77.0359785">
-        <name>15th &amp; Harvard St NW</name>
+        <name>16th &amp; Harvard St NW</name>
         <cmt>station_id: 31103</cmt>
     </wpt>
     <wpt lat="38.922925" lon="-77.042581">
@@ -566,7 +566,7 @@
         <cmt>station_id: 31211</cmt>
     </wpt>
     <wpt lat="38.9055255" lon="-77.047046">
-        <name>21st &amp; M St NW</name>
+        <name>New Hampshire Ave &amp; Ward Pl NW</name>
         <cmt>station_id: 31212</cmt>
     </wpt>
     <wpt lat="38.90276" lon="-77.03863">
@@ -1274,7 +1274,7 @@
         <cmt>station_id: 31612</cmt>
     </wpt>
     <wpt lat="38.8840475" lon="-76.9953155">
-        <name>Eastern Market Metro / Pennsylvania Ave &amp; 7th St SE</name>
+        <name>Eastern Market Metro / Pennsylvania Ave &amp; 8th St SE</name>
         <cmt>station_id: 31613</cmt>
     </wpt>
     <wpt lat="38.899983" lon="-76.991383">
@@ -1718,7 +1718,7 @@
         <cmt>station_id: 31921</cmt>
     </wpt>
     <wpt lat="38.858915" lon="-77.1028735">
-        <name>Columbia Pike &amp; S Taylor St</name>
+        <name>Columbia Pike &amp; George Mason Dr</name>
         <cmt>station_id: 31923</cmt>
     </wpt>
     <wpt lat="38.892556" lon="-77.082089">

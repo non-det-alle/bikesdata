@@ -74,7 +74,7 @@ station_id,station_name,lat,lon
 31073,Washington Blvd & Walter Reed Dr ,38.873219,-77.082104
 31074,TJ Cmty Ctr / 2nd St & S Old Glebe Rd,38.869418,-77.095596
 31075,Rolfe St & 9th St S,38.866471,-77.076131
-31076,S Randolph St & Campbell Ave,38.840283,-77.087871
+31076,Shirlington Transit Center / Quincy St & Randolph St,38.840283,-77.087871
 31077,Iwo Jima Memorial / Meade & 14th St N,38.88992,-77.071301
 31078,Arlington Blvd & S George Mason Dr,38.869442,-77.104503
 31079,Lee Hwy & N Cleveland St,38.894941,-77.09169
@@ -101,7 +101,7 @@ station_id,station_name,lat,lon
 31100,19th St & Pennsylvania Ave NW,38.9003,-77.0429
 31101,14th & V St NW,38.917848000000006,-77.032104
 31102,11th & Kenyon St NW,38.929464,-77.027822
-31103,15th & Harvard St NW,38.926106000000004,-77.0359785
+31103,16th & Harvard St NW,38.926106000000004,-77.0359785
 31104,Adams Mill & Columbia Rd NW,38.922925,-77.042581
 31105,14th & Harvard St NW,38.9268,-77.0322
 31106,Calvert & Biltmore St NW,38.923203,-77.047637
@@ -140,7 +140,7 @@ station_id,station_name,lat,lon
 31208,M St & New Jersey Ave SE,38.8763,-77.0037
 31209,1st & N St  SE,38.8743,-77.0057
 31211,Kennedy Center,38.897293,-77.05557
-31212,21st & M St NW,38.905525499999996,-77.047046
+31212,New Hampshire Ave & Ward Pl NW,38.905525499999996,-77.047046
 31213,17th & K St NW,38.90276,-77.03863
 31214,17th & Corcoran St NW,38.9121,-77.0387
 31215,Georgetown Harbor / 30th St NW,38.9022676,-77.0591805
@@ -317,7 +317,7 @@ station_id,station_name,lat,lon
 31610,Eastern Market / 7th & North Carolina Ave SE,38.886952,-76.996806
 31611,13th & H St NE,38.900426869940496,-76.98825000858307
 31612,D St & Maryland Ave NE,38.894799500000005,-76.99651499999999
-31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,38.8840475,-76.9953155
+31613,Eastern Market Metro / Pennsylvania Ave & 8th St SE,38.8840475,-76.9953155
 31614,11th & H St NE,38.899983,-76.991383
 31615,6th & H St NE,38.899972,-76.998347
 31616,3rd & H St NE,38.900412,-77.001949
@@ -428,7 +428,7 @@ station_id,station_name,lat,lon
 31919,Carlin Springs Rd & N Thomas St,38.876695,-77.112982
 31920,Washington-Liberty High School / N Stafford St & Generals Way,38.888282,-77.111066
 31921,Westover Library / Washington Blvd & N McKinley Rd,38.886048,-77.142317
-31923,Columbia Pike & S Taylor St,38.858914999999996,-77.1028735
+31923,Columbia Pike & George Mason Dr,38.858914999999996,-77.1028735
 31924,Wilson Blvd & N Troy St,38.892556,-77.082089
 31925,Crystal Dr & Potomac Ave,38.848304,-77.05122
 32000,Norfolk Ave & Fairmont St,38.988562,-77.096539
